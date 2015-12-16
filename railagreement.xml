@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<railAgree>
+	<record>
+		<caseNumber>12-04839</caseNumber>
+		<fileNumber>OP-017-0405-005/2012/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<cheminFer>CA NAL Railway Company FR</cheminFer>
+		<roadAuth>Town of Rainy</roadAuth>
+		<fileDate>2012-09-04</fileDate>
+		<nature>Reconstruction,Apportionment of the costs,Maintenance</nature>
+		<worktype>Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>12-04839A</crossingnumber>
+				<city>Rainy River</city>
+				<prov>ON</prov>
+				<road>Government Road</road>
+				<subdivision>Fort Frances</subdivision>
+				<subDivMileage>143.39</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Government Road FR</rue>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>13-04586</caseNumber>
+		<fileNumber>OP-017-0405-005/2013/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>Alberta Ministry of Transportation</roadAuth>
+		<fileDate>2013-07-26</fileDate>
+		<nature>Reconstruction,Apportionment of the costs,Maintenance</nature>
+		<worktype>Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>13-04586A</crossingnumber>
+				<city>Edmonton</city>
+				<prov>AB</prov>
+				<road>Highway 16</road>
+				<subdivision>Scotford</subdivision>
+				<subDivMileage>164.59</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>route 16 FR</rue>
+				<municipalite>Edmonton FR</municipalite>
+			</crossing>
+			<crossing>
+				<crossingnumber>13-04586B</crossingnumber>
+				<city>Edmonton</city>
+				<prov>BC</prov>
+				<road>Anthony Henday Drive</road>
+				<subdivision>Victoria</subdivision>
+				<subDivMileage>164.67</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Anthony Henday Drive FR</rue>
+				<municipalite>Edmonton FR</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>13-04587</caseNumber>
+		<fileNumber>OP-017-0405-005/2013/004</fileNumber>
+		<railway>Pacific and Arctic Railway and Navigation Company</railway>
+		<roadAuth>Alberta Ministry of Transportation</roadAuth>
+		<fileDate>2013-07-26</fileDate>
+		<nature>Reconstruction,Apportionment of the costs,Maintenance</nature>
+		<worktype>Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>13-04587A</crossingnumber>
+				<city>Edmonton</city>
+				<prov>NL</prov>
+				<road>Highway Rideau</road>
+				<subdivision>Scotford</subdivision>
+				<subDivMileage>164.59</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>route Reideau FR</rue>
+				<municipalite>Edmonton FR</municipalite>
+			</crossing>
+			<crossing>
+				<crossingnumber>13-04587B</crossingnumber>
+				<city>Edmonton</city>
+				<prov>YK</prov>
+				<road>Fox Terry Drive</road>
+				<subdivision>Togo</subdivision>
+				<subDivMileage>88.00</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Fox Terry Drive FR</rue>
+				<municipalite>Edmonton FR</municipalite>
+			</crossing>
+			<crossing>
+				<crossingnumber>13-04587C</crossingnumber>
+				<city>Edmonton</city>
+				<prov>QC</prov>
+				<road>JFK Drive</road>
+				<subdivision>Brooks</subdivision>
+				<subDivMileage>255.60</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>JFK Drive FR</rue>
+				<municipalite>Edmonton FR</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>12-04850</caseNumber>
+		<fileNumber>OP-017-0405-005/2012/050</fileNumber>
+		<railway>Norfolk Southern Railway Company</railway>
+		<cheminFer>CA NAL Railway Company FR</cheminFer>
+		<roadAuth>Town of Norfolk</roadAuth>
+		<fileDate>2012-09-04</fileDate>
+		<nature>Reconstruction,Apportionment of the costs,Maintenance</nature>
+		<worktype>Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>12-04850A</crossingnumber>
+				<city>Forest River</city>
+				<prov>MB</prov>
+				<road>Norfolk Road</road>
+				<subdivision>Bala</subdivision>
+				<subDivMileage>979.52</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Norfolk Road FR</rue>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>12-04851</caseNumber>
+		<fileNumber>OP-017-0405-005/2012/051</fileNumber>
+		<railway>Sydney Coal Railway Inc.</railway>
+		<cheminFer>CA NAL Railway Company FR</cheminFer>
+		<roadAuth>Town of Sydney</roadAuth>
+		<fileDate>2012-09-04</fileDate>
+		<nature>Reconstruction,Apportionment of the costs,Maintenance</nature>
+		<worktype>Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>12-04851A</crossingnumber>
+				<city>Rainy River</city>
+				<prov>NU</prov>
+				<road>Parliament Road</road>
+				<subdivision>Amulet</subdivision>
+				<subDivMileage>143.39</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Parliament Road FR</rue>
+			</crossing>
+		</crossings>
+	</record>
+</railAgree>
