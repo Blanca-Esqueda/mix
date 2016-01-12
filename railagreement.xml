@@ -6,13 +6,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Rural Municipality of Vanscoy</roadAuth>
 		<fileDate>2011-10-04</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{BD4BAD0C-9646-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Vanscoy</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road/>
 				<subdivision>Wilkie</subdivision>
 				<subDivMileage/>
@@ -30,13 +30,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>B.C. Ministry of Transportation and Infrastructure</roadAuth>
 		<fileDate>2011-10-04</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{75D0C36F-D136-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Coquitlam</city>
-				<prov>British Columbia</prov>
+				<prov>BC</prov>
 				<road>King Edward Street</road>
 				<subdivision>Westminster</subdivision>
 				<subDivMileage>4.92</subDivMileage>
@@ -54,13 +54,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Town of Rainy River</roadAuth>
 		<fileDate>2012-09-04</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{6A3F8205-6E34-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Rainy River</city>
-				<prov>Ontario</prov>
+				<prov>ON</prov>
 				<road>Government Road</road>
 				<subdivision>Fort Frances</subdivision>
 				<subDivMileage>143.39</subDivMileage>
@@ -78,13 +78,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>B.C. Ministry of Transportation and Infrastructure</roadAuth>
 		<fileDate>2013-03-12</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{EE9A5F95-E536-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Surrey</city>
-				<prov>British Columbia</prov>
+				<prov>BC</prov>
 				<road>Tannery Road</road>
 				<subdivision>Yale</subdivision>
 				<subDivMileage>117.63</subDivMileage>
@@ -102,13 +102,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Rural Municipality of Wallace</roadAuth>
 		<fileDate>2013-04-29</fileDate>
-		<nature>Apportionment of costs  Reconstruction</nature>
+		<nature>Apportionment of the costs, Reconstruction</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{5506312A-9846-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Wallace</city>
-				<prov>Manitoba</prov>
+				<prov>MB</prov>
 				<road>Municipal Road</road>
 				<subdivision>Broadview</subdivision>
 				<subDivMileage>74.72</subDivMileage>
@@ -126,13 +126,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Rural Municipality of Wallace</roadAuth>
 		<fileDate>2013-04-29</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{70281AB5-9F46-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Wallace</city>
-				<prov>Manitoba</prov>
+				<prov>MB</prov>
 				<road>Municipal Road</road>
 				<subdivision>Broadview</subdivision>
 				<subDivMileage>56.8</subDivMileage>
@@ -150,13 +150,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Rural Municipality of Wallace</roadAuth>
 		<fileDate>2013-04-29</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{942B32E4-A046-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Wallace</city>
-				<prov>Manitoba</prov>
+				<prov>MB</prov>
 				<road>Municipal Road</road>
 				<subdivision>Broadview</subdivision>
 				<subDivMileage>67.76</subDivMileage>
@@ -174,13 +174,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Rural Municipality of Wallace</roadAuth>
 		<fileDate>2013-04-29</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{B3A27235-9946-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Wallace</city>
-				<prov>Manitoba</prov>
+				<prov>MB</prov>
 				<road>Municipal Road</road>
 				<subdivision>Broadview</subdivision>
 				<subDivMileage>68.86</subDivMileage>
@@ -198,13 +198,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>City of Calgary</roadAuth>
 		<fileDate>2013-05-06</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{C27BA6AD-AB45-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Calgary</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>96th Avenue N.E.</road>
 				<subdivision>Red Deer</subdivision>
 				<subDivMileage>8.3</subDivMileage>
@@ -222,13 +222,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Alberta Ministry of Transportation</roadAuth>
 		<fileDate>2013-07-26</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{4CB1E0FC-5047-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Edmonton</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>Highway 16</road>
 				<subdivision>Scotford</subdivision>
 				<subDivMileage>164.59</subDivMileage>
@@ -246,13 +246,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Alberta Ministry of Transportation</roadAuth>
 		<fileDate>2013-07-26</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{C67C097D-723F-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Edmonton</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>Anthony Henday Drive</road>
 				<subdivision>Scotford</subdivision>
 				<subDivMileage>164.67</subDivMileage>
@@ -265,7 +265,7 @@
 			<crossing>
 				<crossingnumber>{973B3E15-8C3F-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Edmonton</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>Anthony Henday Drive</road>
 				<subdivision>Scotford</subdivision>
 				<subDivMileage>164.67</subDivMileage>
@@ -283,13 +283,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Alberta Ministry of Transportation</roadAuth>
 		<fileDate>2013-07-26</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{567ABB78-753F-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Edmonton</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>Anthony Henday Drive</road>
 				<subdivision>Scotford</subdivision>
 				<subDivMileage>164.71</subDivMileage>
@@ -307,13 +307,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Alberta Ministry of Transportation</roadAuth>
 		<fileDate>2013-07-26</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{70508341-613F-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Edmonton</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>Anthony Henday Drive</road>
 				<subdivision>Scotford</subdivision>
 				<subDivMileage>165.14</subDivMileage>
@@ -331,13 +331,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Alberta Ministry of Transportation</roadAuth>
 		<fileDate>2013-07-26</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{D6F0C146-4C3C-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Edmonton</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>Anthony Henday Drive</road>
 				<subdivision>Scotford</subdivision>
 				<subDivMileage>165.08</subDivMileage>
@@ -355,13 +355,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>City of Leduc</roadAuth>
 		<fileDate>2013-08-28</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{0DA01189-E936-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Leduc</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>Grant MacEwan Drive</road>
 				<subdivision>Breton</subdivision>
 				<subDivMileage>1.86</subDivMileage>
@@ -379,13 +379,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>City of Winnipeg</roadAuth>
 		<fileDate>2013-08-28</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{962B675A-F039-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Winnipeg</city>
-				<prov>Manitoba</prov>
+				<prov>MB</prov>
 				<road>Adsum Drive</road>
 				<subdivision>Arborg</subdivision>
 				<subDivMileage>2.94</subDivMileage>
@@ -403,13 +403,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>City of Lloydminster</roadAuth>
 		<fileDate>2013-08-28</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{F1222D54-F939-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Lloydminster</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>40th Avenue</road>
 				<subdivision>Lloydminster</subdivision>
 				<subDivMileage>103.21</subDivMileage>
@@ -427,13 +427,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>City of Kamloops</roadAuth>
 		<fileDate>2013-08-28</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
-		<worktype>Grade separation  Pedestrian</worktype>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Grade separation, Pedestrian</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{A7A6C3FD-013A-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Kamloops</city>
-				<prov>British Columbia</prov>
+				<prov>BC</prov>
 				<road/>
 				<subdivision>Shuswap</subdivision>
 				<subDivMileage>127.29</subDivMileage>
@@ -451,13 +451,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>City of Calgary</roadAuth>
 		<fileDate>2013-08-28</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
-		<worktype>Grade separation  Pedestrian</worktype>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Grade separation, Pedestrian</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{3A9775E5-FD39-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Calgary</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road/>
 				<subdivision>MacLeod</subdivision>
 				<subDivMileage>4.83</subDivMileage>
@@ -475,13 +475,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Rural Municipality of Webb No. 138</roadAuth>
 		<fileDate>2013-08-28</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{DD1698A0-1D41-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Antelope</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>Range Road 180</road>
 				<subdivision>Maple Creek</subdivision>
 				<subDivMileage>27.11</subDivMileage>
@@ -494,7 +494,7 @@
 			<crossing>
 				<crossingnumber>{CF80834D-5982-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Antelope</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>Range Road 181</road>
 				<subdivision>Maple Creek</subdivision>
 				<subDivMileage>27.96</subDivMileage>
@@ -507,7 +507,7 @@
 			<crossing>
 				<crossingnumber>{20D642AF-F486-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Antelope</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>Range Road 182</road>
 				<subdivision>Maple Creek</subdivision>
 				<subDivMileage>29.02</subDivMileage>
@@ -525,13 +525,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Corporation of the Township of Havelock-Belmont-Methuen</roadAuth>
 		<fileDate>2013-09-03</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{88ED2CAE-8146-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Peterborough</city>
-				<prov>Ontario</prov>
+				<prov>ON</prov>
 				<road>11th Line</road>
 				<subdivision>Havelock (CP)</subdivision>
 				<subDivMileage>95.95</subDivMileage>
@@ -549,13 +549,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Rural Municipality of Prairie Rose</roadAuth>
 		<fileDate>2013-09-03</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{452DE777-7B46-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Prairie Rose</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road/>
 				<subdivision>Sutherland</subdivision>
 				<subDivMileage>25.9</subDivMileage>
@@ -573,13 +573,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>City of Swift Current</roadAuth>
 		<fileDate>2013-09-03</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{48FB6734-983F-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Swift Current</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>Lac Pelletier Trail</road>
 				<subdivision>Maple Creek</subdivision>
 				<subDivMileage>1.72</subDivMileage>
@@ -597,13 +597,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>City of Edmonton</roadAuth>
 		<fileDate>2013-09-10</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{6BC88CF6-B545-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Edmonton</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>82nd Street</road>
 				<subdivision>Wainwright</subdivision>
 				<subDivMileage>263.3</subDivMileage>
@@ -621,13 +621,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Glenbow Ranch Park Foundation</roadAuth>
 		<fileDate>2013-09-03</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{109457B3-FF39-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Rocky View</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>Glenbow Ranch Park Access</road>
 				<subdivision>Laggan</subdivision>
 				<subDivMileage>17.67</subDivMileage>
@@ -645,13 +645,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Municipality of Southwest Middlesex</roadAuth>
 		<fileDate>2013-09-10</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{6B11DC9C-D045-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Southwest Middlesex</city>
-				<prov>Ontario</prov>
+				<prov>ON</prov>
 				<road>Pratt Siding Road</road>
 				<subdivision>Chatham</subdivision>
 				<subDivMileage>30.62</subDivMileage>
@@ -669,13 +669,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Alberta Ministry of Transportation</roadAuth>
 		<fileDate>2013-09-10</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{A271AA7C-1F41-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Ribstone</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>Highway 899</road>
 				<subdivision>Wainwright</subdivision>
 				<subDivMileage>112.14</subDivMileage>
@@ -693,13 +693,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Sturgeon County</roadAuth>
 		<fileDate>2013-09-10</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{E9D77EA3-7946-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Cardiff</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>Township Road 554</road>
 				<subdivision>Westlock</subdivision>
 				<subDivMileage>17.25</subDivMileage>
@@ -717,13 +717,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Alberta Ministry of Transportation</roadAuth>
 		<fileDate>2013-09-10</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{15EC9EC1-3740-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Bruce</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>Highway 857</road>
 				<subdivision>Wainwright</subdivision>
 				<subDivMileage>197.16</subDivMileage>
@@ -741,13 +741,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>City of St. Albert</roadAuth>
 		<fileDate>2013-09-10</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{603B96A0-B845-E511-9411-005056BCABCB}</crossingnumber>
 				<city>St. Albert</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>Meadowview Drive</road>
 				<subdivision>Sangudo</subdivision>
 				<subDivMileage>4.97</subDivMileage>
@@ -765,13 +765,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>The District Municipality of Muskoka</roadAuth>
 		<fileDate>2013-09-10</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{FFE8036C-A446-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Muskoka Lakes</city>
-				<prov>Ontario</prov>
+				<prov>ON</prov>
 				<road>Southwood Road</road>
 				<subdivision>Bala</subdivision>
 				<subDivMileage>108.27</subDivMileage>
@@ -789,13 +789,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>City of St. Albert</roadAuth>
 		<fileDate>2013-09-10</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{36F847CC-B745-E511-9411-005056BCABCB}</crossingnumber>
 				<city>St. Albert</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>Riel Drive</road>
 				<subdivision>Sangudo</subdivision>
 				<subDivMileage>4.48</subDivMileage>
@@ -813,13 +813,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Rural Municipality of Swift Current No. 137</roadAuth>
 		<fileDate>2013-09-03</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Reconstruction  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Construction, Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{C4AF40FA-2D48-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Rural Municipality of Swirft Current No. 137</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>Lac Pelletier Trail</road>
 				<subdivision>Maple Creek</subdivision>
 				<subDivMileage>1.72</subDivMileage>
@@ -832,7 +832,7 @@
 			<crossing>
 				<crossingnumber>{3A573A22-2E48-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Rural Municipality of Swirft Current No. 137</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>Range Road 144</road>
 				<subdivision>Maple Creek</subdivision>
 				<subDivMileage>3.8</subDivMileage>
@@ -845,7 +845,7 @@
 			<crossing>
 				<crossingnumber>{D5303460-2E48-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Rural Municipality of Swirft Current No. 137</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>Township Road 154</road>
 				<subdivision>Maple Creek</subdivision>
 				<subDivMileage>7.18</subDivMileage>
@@ -858,7 +858,7 @@
 			<crossing>
 				<crossingnumber>{B2C5BC93-2E48-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Rural Municipality of Swirft Current No. 137</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>Highway No. 630</road>
 				<subdivision>Maple Creek</subdivision>
 				<subDivMileage>10.58</subDivMileage>
@@ -871,7 +871,7 @@
 			<crossing>
 				<crossingnumber>{7B8AF1BF-2E48-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Rural Municipality of Swirft Current No. 137</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>Range Road 132</road>
 				<subdivision>Swift Current</subdivision>
 				<subDivMileage>104.28</subDivMileage>
@@ -884,7 +884,7 @@
 			<crossing>
 				<crossingnumber>{26D031F0-2E48-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Rural Municipality of Swirft Current No. 137</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>Township Road 160</road>
 				<subdivision>Swift Current</subdivision>
 				<subDivMileage>106.66</subDivMileage>
@@ -900,15 +900,15 @@
 		<caseNumber>13-05886</caseNumber>
 		<fileNumber>OP-017-0405-005/2013/001</fileNumber>
 		<railway>Canadian Pacific Railway Company</railway>
-		<roadAuth>Université de Montréal</roadAuth>
+		<roadAuth>Universit顤e Montrꢬ</roadAuth>
 		<fileDate>2013-09-03</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
-		<worktype>Grade separation  Pedestrian</worktype>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Grade separation, Pedestrian</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{8FBB5182-173A-E511-9411-005056BCABCB}</crossingnumber>
-				<city>Montréal</city>
-				<prov>Quebec</prov>
+				<city>Montrꢬ</city>
+				<prov>QC</prov>
 				<road/>
 				<subdivision>Adirondack</subdivision>
 				<subDivMileage/>
@@ -916,7 +916,7 @@
 				<embranchement>Outremont Spur</embranchement>
 				<spurMileage>5.85</spurMileage>
 				<rue/>
-				<municipalite>Montréal</municipalite>
+				<municipalite>Montrꢬ</municipalite>
 			</crossing>
 		</crossings>
 	</record>
@@ -926,13 +926,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Town of Ponoka</roadAuth>
 		<fileDate>2013-09-03</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{03ADC651-DA3A-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Ponoka</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>57th Avenue</road>
 				<subdivision>Leduc</subdivision>
 				<subDivMileage>35.41</subDivMileage>
@@ -950,13 +950,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Municipal District of Foothills No. 31</roadAuth>
 		<fileDate>2013-08-28</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{F4CD853E-083A-E511-9411-005056BCABCB}</crossingnumber>
 				<city>High River</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>Highway 543</road>
 				<subdivision>Aldersyde</subdivision>
 				<subDivMileage>86.6</subDivMileage>
@@ -974,13 +974,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Alberta Ministry of Transportation</roadAuth>
 		<fileDate>2013-09-03</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{4FF55FDB-1B4C-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Calgary</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>Stoney Trail</road>
 				<subdivision>Laggan</subdivision>
 				<subDivMileage>8.94</subDivMileage>
@@ -998,13 +998,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>City of Winnipeg</roadAuth>
 		<fileDate>2013-08-28</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{23DB7B2E-F34B-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Winnipeg</city>
-				<prov>Manitoba</prov>
+				<prov>MB</prov>
 				<road>Gunn Road</road>
 				<subdivision>Keewatin</subdivision>
 				<subDivMileage>119.67</subDivMileage>
@@ -1022,13 +1022,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Saskatchewan Ministry of Highways and Infrastructure</roadAuth>
 		<fileDate>2013-11-04</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{1830AE18-394B-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Estevan</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>Estevan Truck Route</road>
 				<subdivision>Weyburn (CP)</subdivision>
 				<subDivMileage>133.91</subDivMileage>
@@ -1046,13 +1046,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Saskatchewan Ministry of Highways and Infrastructure</roadAuth>
 		<fileDate>2013-11-04</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{8CEAC329-3A4B-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Estevan</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>Estevan Truck Route</road>
 				<subdivision>Weyburn (CP)</subdivision>
 				<subDivMileage>152.99</subDivMileage>
@@ -1070,13 +1070,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>City of Edmonton</roadAuth>
 		<fileDate>2013-11-05</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
-		<worktype>Crossing at grade  Pedestrian</worktype>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Pedestrian</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{C8C51ACF-D43A-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Edmonton</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>118th Avenue</road>
 				<subdivision>Edson</subdivision>
 				<subDivMileage>4.75</subDivMileage>
@@ -1094,13 +1094,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Corporation of the Township of Langley</roadAuth>
 		<fileDate>2013-11-05</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{F044BA50-2641-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Langley</city>
-				<prov>British Columbia</prov>
+				<prov>BC</prov>
 				<road>201 Street</road>
 				<subdivision>Yale</subdivision>
 				<subDivMileage>106.97</subDivMileage>
@@ -1118,13 +1118,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>City of Spruce Grove</roadAuth>
 		<fileDate>2013-11-05</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{7532CD1D-BB45-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Spruce Grove</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>Century Road</road>
 				<subdivision>Edson</subdivision>
 				<subDivMileage>19</subDivMileage>
@@ -1142,13 +1142,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>County of Minburn No. 27</roadAuth>
 		<fileDate>2013-11-05</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{841C7ABD-8446-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Mannville</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road/>
 				<subdivision>Vegreville</subdivision>
 				<subDivMileage>9.72</subDivMileage>
@@ -1166,13 +1166,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Rural Municipality of Round Valley</roadAuth>
 		<fileDate>2013-11-05</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{104AA31E-7F46-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Unity</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>North-South Road</road>
 				<subdivision>Wainwright</subdivision>
 				<subDivMileage>61.02</subDivMileage>
@@ -1190,13 +1190,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Sturgeon County</roadAuth>
 		<fileDate>2013-11-05</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{6D4DD462-CB45-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Redwater</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>Range Road 224</road>
 				<subdivision>Coronado</subdivision>
 				<subDivMileage>24.43</subDivMileage>
@@ -1214,13 +1214,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Northern Sunrise County</roadAuth>
 		<fileDate>2013-11-05</fileDate>
-		<nature>Apportionment of costs</nature>
+		<nature>Apportionment of the costs</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{D48DBB4F-144C-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Nampa</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road/>
 				<subdivision>Peace River</subdivision>
 				<subDivMileage>33.22</subDivMileage>
@@ -1238,13 +1238,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Rural Municipality of Round Valley</roadAuth>
 		<fileDate>2013-11-05</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{3B8AEDA8-234C-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Unity</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road/>
 				<subdivision>Wainwright</subdivision>
 				<subDivMileage>59.59</subDivMileage>
@@ -1262,13 +1262,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>County of Vermilion River No. 24</roadAuth>
 		<fileDate>2013-11-05</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{272617C0-7146-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Islay</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road/>
 				<subdivision>Blackfoot</subdivision>
 				<subDivMileage>107.83</subDivMileage>
@@ -1286,13 +1286,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Sturgeon County</roadAuth>
 		<fileDate>2013-11-05</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{E85AD2C9-B045-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Fort Saskatchewan</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>Estates Way</road>
 				<subdivision>Vegreville</subdivision>
 				<subDivMileage>114.25</subDivMileage>
@@ -1310,13 +1310,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Manitoba Infrastructure and Transportation</roadAuth>
 		<fileDate>2013-12-09</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{166E2C4B-D445-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Roblin</city>
-				<prov>Manitoba</prov>
+				<prov>MB</prov>
 				<road>Highway No. 5</road>
 				<subdivision>Togo</subdivision>
 				<subDivMileage>62.45</subDivMileage>
@@ -1334,13 +1334,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Rural Municipality of Corman Park No. 344</roadAuth>
 		<fileDate>2013-12-09</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{3C86AEBF-2B4C-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Clavet</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>Range Road 3042</road>
 				<subdivision>Watrous</subdivision>
 				<subDivMileage>179.49</subDivMileage>
@@ -1358,13 +1358,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Rural Municipality of Corman Park No. 344</roadAuth>
 		<fileDate>2013-12-09</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{965765A0-2A4C-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Clavet</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>Range Road 3042</road>
 				<subdivision>Watrous</subdivision>
 				<subDivMileage>179.49</subDivMileage>
@@ -1382,13 +1382,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Ville de Senneterre</roadAuth>
 		<fileDate>2013-12-13</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{621A1E39-594A-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Senneterre</city>
-				<prov>Quebec</prov>
+				<prov>QC</prov>
 				<road/>
 				<subdivision>St. Maurice</subdivision>
 				<subDivMileage>183.45</subDivMileage>
@@ -1406,13 +1406,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Rural Municipality of Corman Park No. 344</roadAuth>
 		<fileDate>2013-12-19</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{C5EB48B5-6A46-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Saskatoon</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>Range Road 3050</road>
 				<subdivision>Watrous</subdivision>
 				<subDivMileage>183.92</subDivMileage>
@@ -1430,13 +1430,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Parkland County</roadAuth>
 		<fileDate>2014-01-06</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{B417BFD0-CD45-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Parkland County</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>Range Road 13</road>
 				<subdivision>Edson</subdivision>
 				<subDivMileage>27.02</subDivMileage>
@@ -1454,13 +1454,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Corporation of the Town of Georgina</roadAuth>
 		<fileDate>2014-01-06</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{49C3C1AC-A246-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Georgina</city>
-				<prov>Ontario</prov>
+				<prov>ON</prov>
 				<road>Clovelly Cove Road</road>
 				<subdivision>Bala</subdivision>
 				<subDivMileage>57.97</subDivMileage>
@@ -1478,13 +1478,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>City of Edmonton</roadAuth>
 		<fileDate>2014-01-06</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{DE9F22C4-B945-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Edmonton</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>64th Avenue</road>
 				<subdivision>Camrose</subdivision>
 				<subDivMileage>5.08</subDivMileage>
@@ -1500,15 +1500,15 @@
 		<caseNumber>14-00076</caseNumber>
 		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
 		<railway>Canadian National Railway Company</railway>
-		<roadAuth>Ville de Montréal</roadAuth>
+		<roadAuth>Ville de Montrꢬ</roadAuth>
 		<fileDate>2014-01-07</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{9593B0DE-004C-E511-9411-005056BCABCB}</crossingnumber>
-				<city>Montréal</city>
-				<prov>Quebec</prov>
+				<city>Montrꢬ</city>
+				<prov>QC</prov>
 				<road/>
 				<subdivision>St. Laurent</subdivision>
 				<subDivMileage>130.4</subDivMileage>
@@ -1516,7 +1516,7 @@
 				<embranchement/>
 				<spurMileage/>
 				<rue/>
-				<municipalite>Montréal</municipalite>
+				<municipalite>Montrꢬ</municipalite>
 			</crossing>
 		</crossings>
 	</record>
@@ -1526,13 +1526,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Ville de Contrecoeur</roadAuth>
 		<fileDate>2014-01-07</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{7D3BC4B9-7D46-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Contrecoeur</city>
-				<prov>Quebec</prov>
+				<prov>QC</prov>
 				<road>St-Antoine Street</road>
 				<subdivision>Sorel</subdivision>
 				<subDivMileage>31.09</subDivMileage>
@@ -1550,13 +1550,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>B.C. Ministry of Transportation and Infrastructure</roadAuth>
 		<fileDate>2014-01-06</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{1235B61F-DD3A-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Taylor</city>
-				<prov>British Columbia</prov>
+				<prov>BC</prov>
 				<road>Alaska Highway</road>
 				<subdivision>Fort St-John</subdivision>
 				<subDivMileage>716.74</subDivMileage>
@@ -1574,13 +1574,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>District of Taylor</roadAuth>
 		<fileDate>2014-01-06</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{289CA721-BB41-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Taylor</city>
-				<prov>British Columbia</prov>
+				<prov>BC</prov>
 				<road>100A Street</road>
 				<subdivision>Fort St-John</subdivision>
 				<subDivMileage>716.74</subDivMileage>
@@ -1598,13 +1598,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>District of Taylor</roadAuth>
 		<fileDate>2014-01-06</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{C0F445C4-C141-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Taylor</city>
-				<prov>British Columbia</prov>
+				<prov>BC</prov>
 				<road>100th Street</road>
 				<subdivision>Fort St-John</subdivision>
 				<subDivMileage>716.74</subDivMileage>
@@ -1622,13 +1622,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Ville de Repentigny</roadAuth>
 		<fileDate>2014-01-13</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{99DCF190-2341-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Repentigny</city>
-				<prov>Quebec</prov>
+				<prov>QC</prov>
 				<road>rue St-Paul</road>
 				<subdivision>Joliette</subdivision>
 				<subDivMileage>122.21</subDivMileage>
@@ -1646,20 +1646,20 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Ville de Repentigny</roadAuth>
 		<fileDate>2014-01-13</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{DC1550F7-2441-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Repentigny</city>
-				<prov>Quebec</prov>
-				<road>Montée des Arsenaux</road>
+				<prov>QC</prov>
+				<road>Montꥠdes Arsenaux</road>
 				<subdivision>Joliette</subdivision>
 				<subDivMileage>122.71</subDivMileage>
 				<spur/>
 				<embranchement/>
 				<spurMileage/>
-				<rue>Montée des Arsenaux</rue>
+				<rue>Montꥠdes Arsenaux</rue>
 				<municipalite>Repentigny</municipalite>
 			</crossing>
 		</crossings>
@@ -1670,13 +1670,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Yellowhead County</roadAuth>
 		<fileDate>2014-01-15</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{679DB12A-F54B-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Hinton</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road/>
 				<subdivision>Edson</subdivision>
 				<subDivMileage>176.9</subDivMileage>
@@ -1694,13 +1694,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Yellowhead County</roadAuth>
 		<fileDate>2014-01-15</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{9893E248-F94B-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Hinton</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road/>
 				<subdivision>Edson</subdivision>
 				<subDivMileage>179.53</subDivMileage>
@@ -1718,13 +1718,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Yellowhead County</roadAuth>
 		<fileDate>2014-01-15</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{D9B74EF0-F94B-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Hinton</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road/>
 				<subdivision>Edson</subdivision>
 				<subDivMileage>178.39</subDivMileage>
@@ -1742,13 +1742,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Yellowhead County</roadAuth>
 		<fileDate>2014-01-15</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{A2E1C68A-FA4B-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Hinton</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road/>
 				<subdivision>Edson</subdivision>
 				<subDivMileage>178.04</subDivMileage>
@@ -1766,13 +1766,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Ministry of Transportation of Ontario</roadAuth>
 		<fileDate>2014-02-07</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{7A6D769A-A646-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Foleyet</city>
-				<prov>Ontario</prov>
+				<prov>ON</prov>
 				<road>Fin Hill Road</road>
 				<subdivision>Ruel</subdivision>
 				<subDivMileage>148.66</subDivMileage>
@@ -1790,13 +1790,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Rural Municipality of Corman Park No. 344</roadAuth>
 		<fileDate>2014-02-07</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{4F343F68-6C46-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Saskatoon</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>Range Road 3043</road>
 				<subdivision>Watrous</subdivision>
 				<subDivMileage>180.59</subDivMileage>
@@ -1814,13 +1814,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Rural Municipality of Corman Park No. 344</roadAuth>
 		<fileDate>2014-02-07</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{780A913F-6D46-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Saskatoon</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>Range Road 3043</road>
 				<subdivision>Watrous</subdivision>
 				<subDivMileage>180.59</subDivMileage>
@@ -1838,13 +1838,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Rural Municipality of Corman Park No. 344</roadAuth>
 		<fileDate>2014-02-07</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{352B2874-6E46-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Saskatoon</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>Range Road 3044</road>
 				<subdivision>Watrous</subdivision>
 				<subDivMileage>181.7</subDivMileage>
@@ -1862,13 +1862,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Rural Municipality of Corman Park No. 344</roadAuth>
 		<fileDate>2014-02-07</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{03987D43-6F46-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Saskatoon</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>Range Road 3044</road>
 				<subdivision>Watrous</subdivision>
 				<subDivMileage>181.7</subDivMileage>
@@ -1886,13 +1886,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Rural Municipality of Corman Park No. 344</roadAuth>
 		<fileDate>2014-02-07</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{E0BAB07C-5A4A-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Saskatoon</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>Road TR360</road>
 				<subdivision>Watrous</subdivision>
 				<subDivMileage>182.98</subDivMileage>
@@ -1910,13 +1910,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Rural Municipality of Corman Park No. 344</roadAuth>
 		<fileDate>2014-02-07</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{609D7363-5B4A-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Saskatoon</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>Road TR360</road>
 				<subdivision>Watrous</subdivision>
 				<subDivMileage>182.98</subDivMileage>
@@ -1934,13 +1934,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Alberta Ministry of Transportation</roadAuth>
 		<fileDate>2014-02-07</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{FFAF5C7A-1941-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Holden</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>Highway 855</road>
 				<subdivision>Wainwright</subdivision>
 				<subDivMileage>206.25</subDivMileage>
@@ -1958,13 +1958,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Manitoba Infrastructure and Transportation</roadAuth>
 		<fileDate>2014-02-07</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{AD9F0741-9346-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Winnipeg</city>
-				<prov>Manitoba</prov>
+				<prov>MB</prov>
 				<road>North Service Road Highway No. 190</road>
 				<subdivision>Oak Point</subdivision>
 				<subDivMileage>8.62</subDivMileage>
@@ -1982,13 +1982,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Manitoba Infrastructure and Transportation</roadAuth>
 		<fileDate>2014-02-07</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{F2B51C72-2640-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Winnipeg</city>
-				<prov>Manitoba</prov>
+				<prov>MB</prov>
 				<road>Highway 190</road>
 				<subdivision>Oak Point</subdivision>
 				<subDivMileage>8.58</subDivMileage>
@@ -2006,13 +2006,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Manitoba Infrastructure and Transportation</roadAuth>
 		<fileDate>2014-02-07</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{4F6A9A64-2040-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Winnipeg</city>
-				<prov>Manitoba</prov>
+				<prov>MB</prov>
 				<road>Highway 190</road>
 				<subdivision>Oak Point</subdivision>
 				<subDivMileage>8.58</subDivMileage>
@@ -2030,13 +2030,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Nova Scotia Ministry of Transportation and Infrastructure Renewal</roadAuth>
 		<fileDate>2014-02-19</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{9B28E216-184C-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Cumberland</city>
-				<prov>Nova Scotia</prov>
+				<prov>NS</prov>
 				<road>Fort Lawrence Road</road>
 				<subdivision>Springhill</subdivision>
 				<subDivMileage>79.5</subDivMileage>
@@ -2054,13 +2054,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>City of Surrey</roadAuth>
 		<fileDate>2013-12-19</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{880623BA-3F40-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Surrey</city>
-				<prov>British Columbia</prov>
+				<prov>BC</prov>
 				<road>Triggs Road</road>
 				<subdivision>Yale</subdivision>
 				<subDivMileage>110.19</subDivMileage>
@@ -2078,13 +2078,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Municipality of Clarington</roadAuth>
 		<fileDate>2014-03-10</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{8D42FEF6-7246-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Clarington</city>
-				<prov>Ontario</prov>
+				<prov>ON</prov>
 				<road>Elliott Road</road>
 				<subdivision>Kingston (CN)</subdivision>
 				<subDivMileage>279.58</subDivMileage>
@@ -2102,13 +2102,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>City of Winnipeg</roadAuth>
 		<fileDate>2014-03-10</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{9DADE80C-B245-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Winnipeg</city>
-				<prov>Manitoba</prov>
+				<prov>MB</prov>
 				<road>Provencher Boulevard</road>
 				<subdivision>Sprague</subdivision>
 				<subDivMileage>149.63</subDivMileage>
@@ -2126,13 +2126,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Regional Municipality of Niagara</roadAuth>
 		<fileDate>2014-03-10</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{082DD08B-BC45-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Thorold</city>
-				<prov>Ontario</prov>
+				<prov>ON</prov>
 				<road>Allanport Road</road>
 				<subdivision>Stamford</subdivision>
 				<subDivMileage>24.05</subDivMileage>
@@ -2150,20 +2150,20 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Ville de Saguenay</roadAuth>
 		<fileDate>2014-03-10</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{7B3808F0-2C40-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Saguenay</city>
-				<prov>Quebec</prov>
-				<road>St-François Boulevard</road>
+				<prov>QC</prov>
+				<road>St-Fran谩s Boulevard</road>
 				<subdivision>Lac Saint-Jean</subdivision>
 				<subDivMileage>202.36</subDivMileage>
 				<spur/>
 				<embranchement/>
 				<spurMileage/>
-				<rue>boulevard St-François</rue>
+				<rue>boulevard St-Fran谩s</rue>
 				<municipalite>Saguenay</municipalite>
 			</crossing>
 		</crossings>
@@ -2172,15 +2172,15 @@
 		<caseNumber>14-01569</caseNumber>
 		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
 		<railway>Canadian National Railway Company</railway>
-		<roadAuth>Municipalité de Lac-aux-Sables</roadAuth>
+		<roadAuth>Municipalit顤e Lac-aux-Sables</roadAuth>
 		<fileDate>2014-03-11</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{5E7A061C-2841-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Lac-aux-Sables</city>
-				<prov>Quebec</prov>
+				<prov>QC</prov>
 				<road>rue Principale</road>
 				<subdivision>Lac Saint-Jean</subdivision>
 				<subDivMileage>23.45</subDivMileage>
@@ -2198,13 +2198,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>City of Winnipeg</roadAuth>
 		<fileDate>2014-03-11</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{68273091-044C-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Winnipeg</city>
-				<prov>Manitoba</prov>
+				<prov>MB</prov>
 				<road>Bison Drive</road>
 				<subdivision>Letellier</subdivision>
 				<subDivMileage>3.66</subDivMileage>
@@ -2222,13 +2222,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>City of Saskatoon</roadAuth>
 		<fileDate>2014-03-11</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{1ABA02AE-D73A-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Saskatoon</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>Wanuskewin Road</road>
 				<subdivision>Warman</subdivision>
 				<subDivMileage>8.94</subDivMileage>
@@ -2246,13 +2246,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>B.C. Ministry of Environment</roadAuth>
 		<fileDate>2014-03-10</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
-		<worktype>Crossing at grade  Pedestrian</worktype>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Pedestrian</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{C3527A1E-294C-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Resort Municipality of Whistler</city>
-				<prov>British Columbia</prov>
+				<prov>BC</prov>
 				<road>Brandywine Falls Park</road>
 				<subdivision>Squamish</subdivision>
 				<subDivMileage>65.83</subDivMileage>
@@ -2270,13 +2270,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Regional Municipality of York</roadAuth>
 		<fileDate>2014-03-10</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{4802D6AB-CF3A-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Vaughan</city>
-				<prov>Ontario</prov>
+				<prov>ON</prov>
 				<road/>
 				<subdivision>Halton</subdivision>
 				<subDivMileage>0</subDivMileage>
@@ -2294,13 +2294,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>City of Winnipeg</roadAuth>
 		<fileDate>2014-03-25</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{44584F79-D23A-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Winnipeg</city>
-				<prov>Manitoba</prov>
+				<prov>MB</prov>
 				<road>Kenaston Boulevard</road>
 				<subdivision>Rivers</subdivision>
 				<subDivMileage>4.87</subDivMileage>
@@ -2318,13 +2318,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Strathcona County</roadAuth>
 		<fileDate>2014-03-25</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{E39299CE-A746-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Ardrossan</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>Range Road 223</road>
 				<subdivision>Wainwright</subdivision>
 				<subDivMileage>251.43</subDivMileage>
@@ -2342,13 +2342,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Corporation of the City of Brampton</roadAuth>
 		<fileDate>2014-03-10</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{3D3C404B-204C-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Brampton</city>
-				<prov>Ontario</prov>
+				<prov>ON</prov>
 				<road>Creditview Road</road>
 				<subdivision>Halton</subdivision>
 				<subDivMileage>18.73</subDivMileage>
@@ -2366,13 +2366,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>City of Winnipeg</roadAuth>
 		<fileDate>2014-03-25</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{393C8E0C-164C-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Winnipeg</city>
-				<prov>Manitoba</prov>
+				<prov>MB</prov>
 				<road>Shaftesbury Boulevard</road>
 				<subdivision>Rivers</subdivision>
 				<subDivMileage>6.27</subDivMileage>
@@ -2390,13 +2390,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Rural Municipality of Vanscoy</roadAuth>
 		<fileDate>2014-03-25</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{1A268916-143A-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Vanscoy</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>Township Road 3083</road>
 				<subdivision>Watrous</subdivision>
 				<subDivMileage>204.49</subDivMileage>
@@ -2414,13 +2414,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Rural Municipality of Vanscoy</roadAuth>
 		<fileDate>2014-03-25</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{80004ADC-043A-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Vanscoy</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>Township Road 362</road>
 				<subdivision>Watrous</subdivision>
 				<subDivMileage>204.49</subDivMileage>
@@ -2438,13 +2438,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Rural Municipality of Vanscoy</roadAuth>
 		<fileDate>2014-03-25</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{AD98D16D-0A3A-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Vanscoy</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>Township Road 360</road>
 				<subdivision>Watrous</subdivision>
 				<subDivMileage>204.49</subDivMileage>
@@ -2462,20 +2462,20 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Rural Municipality of Vanscoy</roadAuth>
 		<fileDate>2014-03-25</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{6A4F1786-153A-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Vansoy</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>Relocated Township Road 3050</road>
 				<subdivision>Watrous</subdivision>
 				<subDivMileage>204.49</subDivMileage>
 				<spur>Vanscoy Spur</spur>
 				<embranchement>Vanscoy Spur</embranchement>
 				<spurMileage>7.15</spurMileage>
-				<rue>chemin de canton relocalisé 3050</rue>
+				<rue>chemin de canton relocalis頳050</rue>
 				<municipalite>Vanscoy</municipalite>
 			</crossing>
 		</crossings>
@@ -2486,13 +2486,13 @@
 		<railway>BNSF Railway Company</railway>
 		<roadAuth>City of Vancouver</roadAuth>
 		<fileDate>2014-06-13</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Utility Crossing</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{BF48030E-3A47-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Vancouver</city>
-				<prov>British Columbia</prov>
+				<prov>BC</prov>
 				<road/>
 				<subdivision>Burrard Inlet (BN)</subdivision>
 				<subDivMileage/>
@@ -2510,13 +2510,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Canadian National Railway Company</roadAuth>
 		<fileDate>2015-03-12</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
-		<worktype>Railway crossing 99.1</worktype>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Railway crossing (99(1))</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{EE054524-3B40-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Edmonton</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road/>
 				<subdivision>Scotford</subdivision>
 				<subDivMileage>167.7</subDivMileage>
@@ -2529,7 +2529,7 @@
 			<crossing>
 				<crossingnumber>{FC22B27F-3B40-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Edmonton</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road/>
 				<subdivision>Camrose</subdivision>
 				<subDivMileage>2.6</subDivMileage>
@@ -2545,15 +2545,15 @@
 		<caseNumber>15-01575</caseNumber>
 		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
 		<railway>Canadian Pacific Railway Company</railway>
-		<roadAuth>Ville de L'Île-Perrot</roadAuth>
+		<roadAuth>Ville de L'Ϭe-Perrot</roadAuth>
 		<fileDate>2015-03-24</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
-		<worktype>Crossing at grade  Pedestrian</worktype>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Pedestrian</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{62FC8454-903F-E511-9411-005056BCABCB}</crossingnumber>
-				<city>L'Île-Perrot</city>
-				<prov>Quebec</prov>
+				<city>L'Ϭe-Perrot</city>
+				<prov>QC</prov>
 				<road>boulevard Perrot Nord</road>
 				<subdivision>Vaudreuil</subdivision>
 				<subDivMileage>16.62</subDivMileage>
@@ -2561,7 +2561,7 @@
 				<embranchement/>
 				<spurMileage/>
 				<rue>boulevard Perrot Nord</rue>
-				<municipalite>L'Île-Perrot</municipalite>
+				<municipalite>L'Ϭe-Perrot</municipalite>
 			</crossing>
 		</crossings>
 	</record>
@@ -2571,13 +2571,13 @@
 		<railway>Alberta Ministry of Transportation</railway>
 		<roadAuth>Canadian Pacific Railway Company</roadAuth>
 		<fileDate>2015-03-25</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{EEA611D5-693F-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Edmonton</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>Anthony Henday Drive</road>
 				<subdivision>Scotford</subdivision>
 				<subDivMileage>163.4</subDivMileage>
@@ -2595,13 +2595,13 @@
 		<railway>Alberta Ministry of Transportation</railway>
 		<roadAuth>Canadian Pacific Railway Company</roadAuth>
 		<fileDate>2015-03-25</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{9BCFD5C1-5147-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Edmonton</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>Highway 16</road>
 				<subdivision>Scotford</subdivision>
 				<subDivMileage>164.59</subDivMileage>
@@ -2619,13 +2619,13 @@
 		<railway>Alberta Ministry of Transportation</railway>
 		<roadAuth>Canadian Pacific Railway Company</roadAuth>
 		<fileDate>2015-03-25</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{EF0A3704-0341-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Edmonton</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>Anthony Henday Drive</road>
 				<subdivision>Scotford</subdivision>
 				<subDivMileage>164.67</subDivMileage>
@@ -2643,13 +2643,13 @@
 		<railway>Alberta Ministry of Transportation</railway>
 		<roadAuth>Canadian Pacific Railway Company</roadAuth>
 		<fileDate>2015-03-25</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{91F893C2-0441-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Edmonton</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>Anthony Henday Drive</road>
 				<subdivision>Scotford</subdivision>
 				<subDivMileage>164.71</subDivMileage>
@@ -2667,13 +2667,13 @@
 		<railway>Alberta Ministry of Transportation</railway>
 		<roadAuth>Canadian Pacific Railway Company</roadAuth>
 		<fileDate>2015-03-25</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{90C693EE-0541-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Edmonton</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>Anthony Henday Drive</road>
 				<subdivision>Scotford</subdivision>
 				<subDivMileage>165.08</subDivMileage>
@@ -2691,13 +2691,13 @@
 		<railway>Alberta Ministry of Transportation</railway>
 		<roadAuth>Canadian Pacific Railway Company</roadAuth>
 		<fileDate>2015-03-25</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{3A60FC0D-0741-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Edmonton</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>Anthony Henday Drive</road>
 				<subdivision>Scotford</subdivision>
 				<subDivMileage>165.14</subDivMileage>
@@ -2715,13 +2715,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>City of Vancouver</roadAuth>
 		<fileDate>2015-06-17</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{6481B55E-4747-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Vancouver</city>
-				<prov>British Columbia</prov>
+				<prov>BC</prov>
 				<road>High Street</road>
 				<subdivision>Westminster</subdivision>
 				<subDivMileage/>
@@ -2739,13 +2739,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>City of Vancouver</roadAuth>
 		<fileDate>2015-06-17</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{C5147A45-4847-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Vancouver</city>
-				<prov>British Columbia</prov>
+				<prov>BC</prov>
 				<road>Road A</road>
 				<subdivision>Westminster</subdivision>
 				<subDivMileage/>
@@ -2763,13 +2763,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>City of Vancouver</roadAuth>
 		<fileDate>2015-06-17</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{8B1426EB-4947-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Vancouver</city>
-				<prov>British Columbia</prov>
+				<prov>BC</prov>
 				<road>Road D</road>
 				<subdivision>Westminster</subdivision>
 				<subDivMileage/>
@@ -2787,13 +2787,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>Rural Municipality of Corman Park No. 344</roadAuth>
 		<fileDate>2013-12-19</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{4C57AA44-6547-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Saskatoon</city>
-				<prov>Saskatchewan</prov>
+				<prov>SK</prov>
 				<road>Range Road 3050</road>
 				<subdivision>Watrous</subdivision>
 				<subDivMileage>183.92</subDivMileage>
@@ -2811,13 +2811,13 @@
 		<railway>Goderich-Exeter Railway Company Limited</railway>
 		<roadAuth>City of Kitchener</roadAuth>
 		<fileDate>2015-07-21</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{5589A9C4-E72F-E511-9411-005056BC6FAF}</crossingnumber>
 				<city>Kitchener</city>
-				<prov>Ontario</prov>
+				<prov>ON</prov>
 				<road>Stirling Avenue</road>
 				<subdivision>Guelph</subdivision>
 				<subDivMileage/>
@@ -2835,13 +2835,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>City of Grande Prairie</roadAuth>
 		<fileDate>2015-10-06</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
-		<worktype>Crossing at grade  Pedestrian  Warning signals</worktype>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Pedestrian, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{E2E1BEF2-556C-E511-9411-005056BC6FAF}</crossingnumber>
 				<city>Grande Prairie</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>102nd Street</road>
 				<subdivision>Grande Prairie</subdivision>
 				<subDivMileage>50.11</subDivMileage>
@@ -2859,13 +2859,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>City of Chilliwack</roadAuth>
 		<fileDate>2015-10-07</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{CDE1CC65-FD6C-E511-9411-005056BC6FAF}</crossingnumber>
 				<city>Chilliwack</city>
-				<prov>British Columbia</prov>
+				<prov>BC</prov>
 				<road>Young Road</road>
 				<subdivision>Yale</subdivision>
 				<subDivMileage>71.94</subDivMileage>
@@ -2883,13 +2883,13 @@
 		<railway>Canadian National Railway Company</railway>
 		<roadAuth>City of Calgary</roadAuth>
 		<fileDate>2015-10-09</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
-		<worktype>Crossing at grade  Warning signals</worktype>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{BFC5F592-8D6E-E511-9411-005056BC6FAF}</crossingnumber>
 				<city>Calgary</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>84th Street North East</road>
 				<subdivision>Three Hills</subdivision>
 				<subDivMileage>120.69</subDivMileage>
@@ -2907,13 +2907,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Corporation of the County of Essex</roadAuth>
 		<fileDate>2015-07-24</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Pedestrian</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{DF8563F2-C54C-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Lakeshore</city>
-				<prov>Ontario</prov>
+				<prov>ON</prov>
 				<road>County Road 25</road>
 				<subdivision>Windsor</subdivision>
 				<subDivMileage>97.73</subDivMileage>
@@ -2931,13 +2931,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>City of Edmonton</roadAuth>
 		<fileDate>2015-07-24</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{A88AE4AC-C74C-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Edmonton</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>West Valley Line (LRT)</road>
 				<subdivision>Scotford</subdivision>
 				<subDivMileage>171.32</subDivMileage>
@@ -2955,13 +2955,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Municipality of French River</roadAuth>
 		<fileDate>2015-07-24</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{51209DA9-C94C-E511-9411-005056BCABCB}</crossingnumber>
 				<city>French River</city>
-				<prov>Ontario</prov>
+				<prov>ON</prov>
 				<road/>
 				<subdivision>Parry Sound</subdivision>
 				<subDivMileage>83.37</subDivMileage>
@@ -2979,13 +2979,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Municipality of Clarington</roadAuth>
 		<fileDate>2015-07-24</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{D165FECA-CA4C-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Bowmanville</city>
-				<prov>Ontario</prov>
+				<prov>ON</prov>
 				<road>Green Road</road>
 				<subdivision>Belleville</subdivision>
 				<subDivMileage>165.4</subDivMileage>
@@ -3003,13 +3003,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>City of Toronto</roadAuth>
 		<fileDate>2015-07-24</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{381E9193-CC4C-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Toronto</city>
-				<prov>Ontario</prov>
+				<prov>ON</prov>
 				<road>Finch Avenue East</road>
 				<subdivision>Havelock (CP)</subdivision>
 				<subDivMileage>179.59</subDivMileage>
@@ -3027,13 +3027,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Town of Ajax</roadAuth>
 		<fileDate>2015-07-24</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{CD64CDAC-D34C-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Ajax</city>
-				<prov>Ontario</prov>
+				<prov>ON</prov>
 				<road>Audley Road</road>
 				<subdivision>Belleville</subdivision>
 				<subDivMileage>181.98</subDivMileage>
@@ -3051,13 +3051,13 @@
 		<railway>Vancouver Fraser Port Authority</railway>
 		<roadAuth>Corporation of the Township of Langley</roadAuth>
 		<fileDate>2015-07-24</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{E57632D6-D84C-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Langley</city>
-				<prov>British Columbia</prov>
+				<prov>BC</prov>
 				<road>232 Street</road>
 				<subdivision>Page</subdivision>
 				<subDivMileage>16.48</subDivMileage>
@@ -3075,20 +3075,20 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>County of Simcoe</roadAuth>
 		<fileDate>2015-07-24</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{8F5D10FF-DF4C-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Essa</city>
-				<prov>Ontario</prov>
+				<prov>ON</prov>
 				<road>Simcoe County Road 90</road>
 				<subdivision>Mactier</subdivision>
 				<subDivMileage>58.86</subDivMileage>
 				<spur/>
 				<embranchement/>
 				<spurMileage/>
-				<rue>route du comté de Simcoe</rue>
+				<rue>route du comt顤e Simcoe</rue>
 				<municipalite>Essa</municipalite>
 			</crossing>
 		</crossings>
@@ -3099,13 +3099,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>City of Toronto</roadAuth>
 		<fileDate>2015-07-24</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{9EA0F4B9-E24C-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Toronto</city>
-				<prov>Ontario</prov>
+				<prov>ON</prov>
 				<road>Markham Road</road>
 				<subdivision>Belleville</subdivision>
 				<subDivMileage>196.96</subDivMileage>
@@ -3123,13 +3123,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Corporation of the Township of Langley</roadAuth>
 		<fileDate>2015-07-24</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{A84D18E9-E44C-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Langley</city>
-				<prov>British Columbia</prov>
+				<prov>BC</prov>
 				<road>Mufford Crescent</road>
 				<subdivision>Page</subdivision>
 				<subDivMileage>19.91</subDivMileage>
@@ -3147,13 +3147,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>City of Belleville</roadAuth>
 		<fileDate>2015-07-24</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{9A93036F-E64C-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Belleville</city>
-				<prov>Ontario</prov>
+				<prov>ON</prov>
 				<road>Bay Bridge Road</road>
 				<subdivision>Belleville</subdivision>
 				<subDivMileage>92.54</subDivMileage>
@@ -3171,13 +3171,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>City of Camrose</roadAuth>
 		<fileDate>2015-07-24</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{8EB8312F-E84C-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Camrose</city>
-				<prov>Alberta</prov>
+				<prov>AB</prov>
 				<road>Highway 13</road>
 				<subdivision>Wetaskiwin</subdivision>
 				<subDivMileage>67.18</subDivMileage>
@@ -3195,13 +3195,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Ministry of Transportation of Ontario</roadAuth>
 		<fileDate>2015-07-24</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{3C8C262F-F34C-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Mississauga</city>
-				<prov>Ontario</prov>
+				<prov>ON</prov>
 				<road>Highway 403</road>
 				<subdivision>Galt</subdivision>
 				<subDivMileage>18.53</subDivMileage>
@@ -3219,13 +3219,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Ministry of Transportation of Ontario</roadAuth>
 		<fileDate>2015-07-24</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{A18F3583-F44C-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Welland</city>
-				<prov>Ontario</prov>
+				<prov>ON</prov>
 				<road>Highway 140</road>
 				<subdivision>Hamilton</subdivision>
 				<subDivMileage>15.09</subDivMileage>
@@ -3243,13 +3243,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Ministry of Transportation of Ontario</roadAuth>
 		<fileDate>2015-07-24</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{BBB01FBE-F54C-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Whitby</city>
-				<prov>Ontario</prov>
+				<prov>ON</prov>
 				<road>Highway 407 East</road>
 				<subdivision>Belleville</subdivision>
 				<subDivMileage>181.21</subDivMileage>
@@ -3267,13 +3267,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>City of Hamilton</roadAuth>
 		<fileDate>2015-07-24</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{4BA0ACF3-E24F-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Hamilton</city>
-				<prov>Ontario</prov>
+				<prov>ON</prov>
 				<road>Pearl Street</road>
 				<subdivision>Hamilton</subdivision>
 				<subDivMileage>58.27</subDivMileage>
@@ -3291,13 +3291,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Township of Havelock-Belmont-Methuen</roadAuth>
 		<fileDate>2015-07-24</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Pedestrian</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{AEF8B56B-E74F-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Havelock</city>
-				<prov>Ontario</prov>
+				<prov>ON</prov>
 				<road>Concession Street</road>
 				<subdivision>Havelock (CP)</subdivision>
 				<subDivMileage>94.13</subDivMileage>
@@ -3313,15 +3313,15 @@
 		<caseNumber>15-70044</caseNumber>
 		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
 		<railway>Canadian Pacific Railway Company</railway>
-		<roadAuth>Ville de Sainte-Thérèse</roadAuth>
+		<roadAuth>Ville de Sainte-Th골se</roadAuth>
 		<fileDate>2015-07-24</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{F81A3969-ED4F-E511-9411-005056BCABCB}</crossingnumber>
-				<city>Sainte-Thérèse</city>
-				<prov>Quebec</prov>
+				<city>Sainte-Th골se</city>
+				<prov>QC</prov>
 				<road>Blainville Street West</road>
 				<subdivision>Parc</subdivision>
 				<subDivMileage>20.82</subDivMileage>
@@ -3329,12 +3329,12 @@
 				<embranchement/>
 				<spurMileage/>
 				<rue>rue Blainville ouest</rue>
-				<municipalite>Sainte-Thérèse</municipalite>
+				<municipalite>Sainte-Th골se</municipalite>
 			</crossing>
 			<crossing>
 				<crossingnumber>{1E1F3D96-ED4F-E511-9411-005056BCABCB}</crossingnumber>
-				<city>Sainte-Thérèse</city>
-				<prov>Quebec</prov>
+				<city>Sainte-Th골se</city>
+				<prov>QC</prov>
 				<road>Saint-Louis Street</road>
 				<subdivision>Parc</subdivision>
 				<subDivMileage>21.26</subDivMileage>
@@ -3342,7 +3342,7 @@
 				<embranchement/>
 				<spurMileage/>
 				<rue>rue Saint-Louis</rue>
-				<municipalite>Sainte-Thérèse</municipalite>
+				<municipalite>Sainte-Th골se</municipalite>
 			</crossing>
 		</crossings>
 	</record>
@@ -3352,20 +3352,20 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Ville de Blainville</roadAuth>
 		<fileDate>2015-07-24</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Warning signals</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{D6E6073C-F24F-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Blainville</city>
-				<prov>Quebec</prov>
-				<road>Côte St-Louis Est road</road>
+				<prov>QC</prov>
+				<road>C������St-Louis Est road</road>
 				<subdivision>Parc</subdivision>
 				<subDivMileage>22.21</subDivMileage>
 				<spur/>
 				<embranchement/>
 				<spurMileage/>
-				<rue>chemin Côte St-Louis Est</rue>
+				<rue>chemin C������St-Louis Est</rue>
 				<municipalite>Blainville</municipalite>
 			</crossing>
 		</crossings>
@@ -3376,13 +3376,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Ville de Pointe-Claire</roadAuth>
 		<fileDate>2015-07-24</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{524CF1FD-F54F-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Pointe-Claire</city>
-				<prov>Quebec</prov>
+				<prov>QC</prov>
 				<road>Boulevard Saint-Jean</road>
 				<subdivision>Vaudreuil</subdivision>
 				<subDivMileage>8.54</subDivMileage>
@@ -3400,13 +3400,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>City of Vancouver</roadAuth>
 		<fileDate>2015-07-24</fileDate>
-		<nature>Construction Reconstruction  Apportionment of costs  Maintenance</nature>
-		<worktype>Grade separation  Pedestrian</worktype>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Grade separation, Pedestrian</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{A6850654-F84F-E511-9411-005056BCABCB}</crossingnumber>
 				<city>Vancouver</city>
-				<prov>British Columbia</prov>
+				<prov>BC</prov>
 				<road>Victoria Drive</road>
 				<subdivision>Cascade</subdivision>
 				<subDivMileage>126.85</subDivMileage>
@@ -3424,13 +3424,13 @@
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Region of Waterloo</roadAuth>
 		<fileDate>2015-07-17</fileDate>
-		<nature>Apportionment of costs  Reconstruction  Maintenance</nature>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
 				<crossingnumber>{AC3B52BC-CF99-E511-9414-005056BCABCB}</crossingnumber>
 				<city>Cambridge</city>
-				<prov>Ontario</prov>
+				<prov>ON</prov>
 				<road>Franklin Boulevard</road>
 				<subdivision>Galt</subdivision>
 				<subDivMileage>56.14</subDivMileage>
