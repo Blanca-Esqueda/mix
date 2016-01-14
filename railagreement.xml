@@ -1808,4 +1808,196 @@
 			</crossing>
 		</crossings>
 	</record>
+	<record>
+		<caseNumber>14-00880</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Rural Municipality of Corman Park No. 344</roadAuth>
+		<fileDate>2014-02-07</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{780A913F-6D46-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Saskatoon</city>
+				<prov>SK</prov>
+				<road>Range Road 3043</road>
+				<subdivision>Watrous</subdivision>
+				<subDivMileage>180.59</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Range Road 3043</rue>
+				<municipalite>Saskatoon</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-00904</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Rural Municipality of Corman Park No. 344</roadAuth>
+		<fileDate>2014-02-07</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{352B2874-6E46-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Saskatoon</city>
+				<prov>SK</prov>
+				<road>Range Road 3044</road>
+				<subdivision>Watrous</subdivision>
+				<subDivMileage>181.7</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Range Road 3044</rue>
+				<municipalite>Saskatoon</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-00906</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Rural Municipality of Corman Park No. 344</roadAuth>
+		<fileDate>2014-02-07</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{03987D43-6F46-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Saskatoon</city>
+				<prov>SK</prov>
+				<road>Range Road 3044</road>
+				<subdivision>Watrous</subdivision>
+				<subDivMileage>181.7</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Range Road 3044</rue>
+				<municipalite>Saskatoon</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-00910</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Rural Municipality of Corman Park No. 344</roadAuth>
+		<fileDate>2014-02-07</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{E0BAB07C-5A4A-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Saskatoon</city>
+				<prov>SK</prov>
+				<road>Road TR360</road>
+				<subdivision>Watrous</subdivision>
+				<subDivMileage>182.98</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Road TR360</rue>
+				<municipalite>Saskatoon</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-00912</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Rural Municipality of Corman Park No. 344</roadAuth>
+		<fileDate>2014-02-07</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{609D7363-5B4A-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Saskatoon</city>
+				<prov>SK</prov>
+				<road>Road TR360</road>
+				<subdivision>Watrous</subdivision>
+				<subDivMileage>182.98</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Road TR360</rue>
+				<municipalite>Saskatoon</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-00915</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Alberta Ministry of Transportation</roadAuth>
+		<fileDate>2014-02-07</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{FFAF5C7A-1941-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Holden</city>
+				<prov>AB</prov>
+				<road>Highway 855</road>
+				<subdivision>Wainwright</subdivision>
+				<subDivMileage>206.25</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>route 855</rue>
+				<municipalite>Holden</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-00916</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Manitoba Infrastructure and Transportation</roadAuth>
+		<fileDate>2014-02-07</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{AD9F0741-9346-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Winnipeg</city>
+				<prov>MB</prov>
+				<road>North Service Road Highway No. 190</road>
+				<subdivision>Oak Point</subdivision>
+				<subDivMileage>8.62</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>route de service Nord route 190</rue>
+				<municipalite>Winnipeg</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-00991</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Manitoba Infrastructure and Transportation</roadAuth>
+		<fileDate>2014-02-07</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{F2B51C72-2640-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Winnipeg</city>
+				<prov>MB</prov>
+				<road>Highway 190</road>
+				<subdivision>Oak Point</subdivision>
+				<subDivMileage>8.58</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>route 190</rue>
+				<municipalite>Winnipeg</municipalite>
+			</crossing>
+		</crossings>
+	</record>
 </railAgree>
