@@ -1616,4 +1616,772 @@
 			</crossing>
 		</crossings>
 	</record>
+	<record>
+		<caseNumber>14-00209</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Ville de Repentigny</roadAuth>
+		<fileDate>2014-01-13</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{99DCF190-2341-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Repentigny</city>
+				<prov>QC</prov>
+				<road>rue St-Paul</road>
+				<subdivision>Joliette</subdivision>
+				<subDivMileage>122.21</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>rue St-Paul</rue>
+				<municipalite>Repentigny</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-00210</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Ville de Repentigny</roadAuth>
+		<fileDate>2014-01-13</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{DC1550F7-2441-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Repentigny</city>
+				<prov>QC</prov>
+				<road>Montꥠdes Arsenaux</road>
+				<subdivision>Joliette</subdivision>
+				<subDivMileage>122.71</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Montꥠdes Arsenaux</rue>
+				<municipalite>Repentigny</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-00440</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Yellowhead County</roadAuth>
+		<fileDate>2014-01-15</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{679DB12A-F54B-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Hinton</city>
+				<prov>AB</prov>
+				<road/>
+				<subdivision>Edson</subdivision>
+				<subDivMileage>176.9</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue/>
+				<municipalite>Hinton</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-00443</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Yellowhead County</roadAuth>
+		<fileDate>2014-01-15</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{9893E248-F94B-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Hinton</city>
+				<prov>AB</prov>
+				<road/>
+				<subdivision>Edson</subdivision>
+				<subDivMileage>179.53</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue/>
+				<municipalite>Hinton</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-00447</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Yellowhead County</roadAuth>
+		<fileDate>2014-01-15</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{D9B74EF0-F94B-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Hinton</city>
+				<prov>AB</prov>
+				<road/>
+				<subdivision>Edson</subdivision>
+				<subDivMileage>178.39</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue/>
+				<municipalite>Hinton</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-00448</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Yellowhead County</roadAuth>
+		<fileDate>2014-01-15</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{A2E1C68A-FA4B-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Hinton</city>
+				<prov>AB</prov>
+				<road/>
+				<subdivision>Edson</subdivision>
+				<subDivMileage>178.04</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue/>
+				<municipalite>Hinton</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-00877</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Ministry of Transportation of Ontario</roadAuth>
+		<fileDate>2014-02-07</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{7A6D769A-A646-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Foleyet</city>
+				<prov>ON</prov>
+				<road>Fin Hill Road</road>
+				<subdivision>Ruel</subdivision>
+				<subDivMileage>148.66</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Fin Hill Road</rue>
+				<municipalite>Foleyet</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-00879</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Rural Municipality of Corman Park No. 344</roadAuth>
+		<fileDate>2014-02-07</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{4F343F68-6C46-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Saskatoon</city>
+				<prov>SK</prov>
+				<road>Range Road 3043</road>
+				<subdivision>Watrous</subdivision>
+				<subDivMileage>180.59</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Range Road 3043</rue>
+				<municipalite>Saskatoon</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-00880</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Rural Municipality of Corman Park No. 344</roadAuth>
+		<fileDate>2014-02-07</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{780A913F-6D46-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Saskatoon</city>
+				<prov>SK</prov>
+				<road>Range Road 3043</road>
+				<subdivision>Watrous</subdivision>
+				<subDivMileage>180.59</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Range Road 3043</rue>
+				<municipalite>Saskatoon</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-00904</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Rural Municipality of Corman Park No. 344</roadAuth>
+		<fileDate>2014-02-07</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{352B2874-6E46-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Saskatoon</city>
+				<prov>SK</prov>
+				<road>Range Road 3044</road>
+				<subdivision>Watrous</subdivision>
+				<subDivMileage>181.7</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Range Road 3044</rue>
+				<municipalite>Saskatoon</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-00906</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Rural Municipality of Corman Park No. 344</roadAuth>
+		<fileDate>2014-02-07</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{03987D43-6F46-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Saskatoon</city>
+				<prov>SK</prov>
+				<road>Range Road 3044</road>
+				<subdivision>Watrous</subdivision>
+				<subDivMileage>181.7</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Range Road 3044</rue>
+				<municipalite>Saskatoon</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-00910</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Rural Municipality of Corman Park No. 344</roadAuth>
+		<fileDate>2014-02-07</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{E0BAB07C-5A4A-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Saskatoon</city>
+				<prov>SK</prov>
+				<road>Road TR360</road>
+				<subdivision>Watrous</subdivision>
+				<subDivMileage>182.98</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Road TR360</rue>
+				<municipalite>Saskatoon</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-00912</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Rural Municipality of Corman Park No. 344</roadAuth>
+		<fileDate>2014-02-07</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{609D7363-5B4A-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Saskatoon</city>
+				<prov>SK</prov>
+				<road>Road TR360</road>
+				<subdivision>Watrous</subdivision>
+				<subDivMileage>182.98</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Road TR360</rue>
+				<municipalite>Saskatoon</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-00915</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Alberta Ministry of Transportation</roadAuth>
+		<fileDate>2014-02-07</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{FFAF5C7A-1941-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Holden</city>
+				<prov>AB</prov>
+				<road>Highway 855</road>
+				<subdivision>Wainwright</subdivision>
+				<subDivMileage>206.25</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>route 855</rue>
+				<municipalite>Holden</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-00916</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Manitoba Infrastructure and Transportation</roadAuth>
+		<fileDate>2014-02-07</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{AD9F0741-9346-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Winnipeg</city>
+				<prov>MB</prov>
+				<road>North Service Road Highway No. 190</road>
+				<subdivision>Oak Point</subdivision>
+				<subDivMileage>8.62</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>route de service Nord route 190</rue>
+				<municipalite>Winnipeg</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-00991</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Manitoba Infrastructure and Transportation</roadAuth>
+		<fileDate>2014-02-07</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{F2B51C72-2640-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Winnipeg</city>
+				<prov>MB</prov>
+				<road>Highway 190</road>
+				<subdivision>Oak Point</subdivision>
+				<subDivMileage>8.58</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>route 190</rue>
+				<municipalite>Winnipeg</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-00992</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Manitoba Infrastructure and Transportation</roadAuth>
+		<fileDate>2014-02-07</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{4F6A9A64-2040-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Winnipeg</city>
+				<prov>MB</prov>
+				<road>Highway 190</road>
+				<subdivision>Oak Point</subdivision>
+				<subDivMileage>8.58</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>route 190</rue>
+				<municipalite>Winnipeg</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-01067</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Nova Scotia Ministry of Transportation and Infrastructure Renewal</roadAuth>
+		<fileDate>2014-02-19</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Grade separation</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{9B28E216-184C-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Cumberland</city>
+				<prov>NS</prov>
+				<road>Fort Lawrence Road</road>
+				<subdivision>Springhill</subdivision>
+				<subDivMileage>79.5</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Fort Lawrence Road</rue>
+				<municipalite>Cumberland</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-01099</caseNumber>
+		<fileNumber>OP-017-0405-005/2013/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>City of Surrey</roadAuth>
+		<fileDate>2013-12-19</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{880623BA-3F40-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Surrey</city>
+				<prov>BC</prov>
+				<road>Triggs Road</road>
+				<subdivision>Yale</subdivision>
+				<subDivMileage>110.19</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Triggs Road</rue>
+				<municipalite>Surrey</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-01478</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Municipality of Clarington</roadAuth>
+		<fileDate>2014-03-10</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{8D42FEF6-7246-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Clarington</city>
+				<prov>ON</prov>
+				<road>Elliott Road</road>
+				<subdivision>Kingston (CN)</subdivision>
+				<subDivMileage>279.58</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>chemin Elliott</rue>
+				<municipalite>Clarington</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-01486</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>City of Winnipeg</roadAuth>
+		<fileDate>2014-03-10</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{9DADE80C-B245-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Winnipeg</city>
+				<prov>MB</prov>
+				<road>Provencher Boulevard</road>
+				<subdivision>Sprague</subdivision>
+				<subDivMileage>149.63</subDivMileage>
+				<spur>St. Boniface Lead</spur>
+				<embranchement>St. Boniface Lead</embranchement>
+				<spurMileage>2.42</spurMileage>
+				<rue>boulevard Provencher</rue>
+				<municipalite>Winnipeg</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-01487</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Regional Municipality of Niagara</roadAuth>
+		<fileDate>2014-03-10</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{082DD08B-BC45-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Thorold</city>
+				<prov>ON</prov>
+				<road>Allanport Road</road>
+				<subdivision>Stamford</subdivision>
+				<subDivMileage>24.05</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>chemin Allanport</rue>
+				<municipalite>Thorold</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-01488</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Ville de Saguenay</roadAuth>
+		<fileDate>2014-03-10</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{7B3808F0-2C40-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Saguenay</city>
+				<prov>QC</prov>
+				<road>St-Fran谩s Boulevard</road>
+				<subdivision>Lac Saint-Jean</subdivision>
+				<subDivMileage>202.36</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>boulevard St-Fran谩s</rue>
+				<municipalite>Saguenay</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-01569</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Municipalit顤e Lac-aux-Sables</roadAuth>
+		<fileDate>2014-03-11</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{5E7A061C-2841-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Lac-aux-Sables</city>
+				<prov>QC</prov>
+				<road>rue Principale</road>
+				<subdivision>Lac Saint-Jean</subdivision>
+				<subDivMileage>23.45</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>rue Principale</rue>
+				<municipalite>Lac-aux-Sables</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-01570</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>City of Winnipeg</roadAuth>
+		<fileDate>2014-03-11</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{68273091-044C-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Winnipeg</city>
+				<prov>MB</prov>
+				<road>Bison Drive</road>
+				<subdivision>Letellier</subdivision>
+				<subDivMileage>3.66</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Bison Drive</rue>
+				<municipalite>Winnipeg</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-01583</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>City of Saskatoon</roadAuth>
+		<fileDate>2014-03-11</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{1ABA02AE-D73A-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Saskatoon</city>
+				<prov>SK</prov>
+				<road>Wanuskewin Road</road>
+				<subdivision>Warman</subdivision>
+				<subDivMileage>8.94</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage>0.59</spurMileage>
+				<rue>rue Wanuskewin</rue>
+				<municipalite>Saskatoon</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-01586</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>B.C. Ministry of Environment</roadAuth>
+		<fileDate>2014-03-10</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Pedestrian</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{C3527A1E-294C-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Resort Municipality of Whistler</city>
+				<prov>BC</prov>
+				<road>Brandywine Falls Park</road>
+				<subdivision>Squamish</subdivision>
+				<subDivMileage>65.83</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Brandywine Falls Park</rue>
+				<municipalite>Resort Municipality of Whistler</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-01638</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Regional Municipality of York</roadAuth>
+		<fileDate>2014-03-10</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Grade separation</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{4802D6AB-CF3A-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Vaughan</city>
+				<prov>ON</prov>
+				<road/>
+				<subdivision>Halton</subdivision>
+				<subDivMileage>0</subDivMileage>
+				<spur>Westward Receiving Yard Lead</spur>
+				<embranchement>Westward Receiving Yard Lead</embranchement>
+				<spurMileage>0.53</spurMileage>
+				<rue/>
+				<municipalite>Vaughan</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-01746</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>City of Winnipeg</roadAuth>
+		<fileDate>2014-03-25</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{44584F79-D23A-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Winnipeg</city>
+				<prov>MB</prov>
+				<road>Kenaston Boulevard</road>
+				<subdivision>Rivers</subdivision>
+				<subDivMileage>4.87</subDivMileage>
+				<spur>Inland Cement Spur</spur>
+				<embranchement>Inland Cement Spur</embranchement>
+				<spurMileage>0.31</spurMileage>
+				<rue>boulevard Kenaston</rue>
+				<municipalite>Winnipeg</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-01747</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Strathcona County</roadAuth>
+		<fileDate>2014-03-25</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{E39299CE-A746-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Ardrossan</city>
+				<prov>AB</prov>
+				<road>Range Road 223</road>
+				<subdivision>Wainwright</subdivision>
+				<subDivMileage>251.43</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Range Road 223</rue>
+				<municipalite>Ardrossan</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-01761</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Corporation of the City of Brampton</roadAuth>
+		<fileDate>2014-03-10</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Grade separation</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{3D3C404B-204C-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Brampton</city>
+				<prov>ON</prov>
+				<road>Creditview Road</road>
+				<subdivision>Halton</subdivision>
+				<subDivMileage>18.73</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Creditview Road</rue>
+				<municipalite>Brampton</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-01762</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>City of Winnipeg</roadAuth>
+		<fileDate>2014-03-25</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{393C8E0C-164C-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Winnipeg</city>
+				<prov>MB</prov>
+				<road>Shaftesbury Boulevard</road>
+				<subdivision>Rivers</subdivision>
+				<subDivMileage>6.27</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>boulevard Shaftesbury</rue>
+				<municipalite>Winnipeg</municipalite>
+			</crossing>
+		</crossings>
+	</record>
 </railAgree>
