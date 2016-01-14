@@ -2685,4 +2685,436 @@
 			</crossing>
 		</crossings>
 	</record>
+	<record>
+		<caseNumber>15-02079</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Alberta Ministry of Transportation</railway>
+		<roadAuth>Canadian Pacific Railway Company</roadAuth>
+		<fileDate>2015-03-25</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Grade separation</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{3A60FC0D-0741-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Edmonton</city>
+				<prov>AB</prov>
+				<road>Anthony Henday Drive</road>
+				<subdivision>Scotford</subdivision>
+				<subDivMileage>165.14</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Anthony Henday Drive</rue>
+				<municipalite>Edmonton</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-02952</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>City of Vancouver</roadAuth>
+		<fileDate>2015-06-17</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{6481B55E-4747-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Vancouver</city>
+				<prov>BC</prov>
+				<road>High Street</road>
+				<subdivision>Westminster</subdivision>
+				<subDivMileage/>
+				<spur>Marpole Spur</spur>
+				<embranchement>Marpole Spur</embranchement>
+				<spurMileage>10.96</spurMileage>
+				<rue>rue High</rue>
+				<municipalite>Vancouver</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-02953</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>City of Vancouver</roadAuth>
+		<fileDate>2015-06-17</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{C5147A45-4847-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Vancouver</city>
+				<prov>BC</prov>
+				<road>Road A</road>
+				<subdivision>Westminster</subdivision>
+				<subDivMileage/>
+				<spur>Marpole Spur</spur>
+				<embranchement>Marpole Spur</embranchement>
+				<spurMileage>10.85</spurMileage>
+				<rue>rue A</rue>
+				<municipalite>Vancouver</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-02954</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>City of Vancouver</roadAuth>
+		<fileDate>2015-06-17</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{8B1426EB-4947-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Vancouver</city>
+				<prov>BC</prov>
+				<road>Road D</road>
+				<subdivision>Westminster</subdivision>
+				<subDivMileage/>
+				<spur>Marpole Spur</spur>
+				<embranchement>Marpole Spur</embranchement>
+				<spurMileage>11.09</spurMileage>
+				<rue>rue D</rue>
+				<municipalite>Vancouver</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-03812</caseNumber>
+		<fileNumber>OP-017-0405-005/2013/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Rural Municipality of Corman Park No. 344</roadAuth>
+		<fileDate>2013-12-19</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{4C57AA44-6547-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Saskatoon</city>
+				<prov>SK</prov>
+				<road>Range Road 3050</road>
+				<subdivision>Watrous</subdivision>
+				<subDivMileage>183.92</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>chemin de concession 3050</rue>
+				<municipalite>Saskatoon</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-60183</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Goderich-Exeter Railway Company Limited</railway>
+		<roadAuth>City of Kitchener</roadAuth>
+		<fileDate>2015-07-21</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Grade separation</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{5589A9C4-E72F-E511-9411-005056BC6FAF}</crossingnumber>
+				<city>Kitchener</city>
+				<prov>ON</prov>
+				<road>Stirling Avenue</road>
+				<subdivision>Guelph</subdivision>
+				<subDivMileage/>
+				<spur>Huron Park Spur</spur>
+				<embranchement>Huron Park Spur</embranchement>
+				<spurMileage>1.95</spurMileage>
+				<rue>avenue Stirling</rue>
+				<municipalite>Kitchener</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-60667</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>City of Grande Prairie</roadAuth>
+		<fileDate>2015-10-06</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Pedestrian, Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{E2E1BEF2-556C-E511-9411-005056BC6FAF}</crossingnumber>
+				<city>Grande Prairie</city>
+				<prov>AB</prov>
+				<road>102nd Street</road>
+				<subdivision>Grande Prairie</subdivision>
+				<subDivMileage>50.11</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>102nd Street</rue>
+				<municipalite>Grande Prairie</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-60682</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>City of Chilliwack</roadAuth>
+		<fileDate>2015-10-07</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{CDE1CC65-FD6C-E511-9411-005056BC6FAF}</crossingnumber>
+				<city>Chilliwack</city>
+				<prov>BC</prov>
+				<road>Young Road</road>
+				<subdivision>Yale</subdivision>
+				<subDivMileage>71.94</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>chemin Young</rue>
+				<municipalite>Chilliwack</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-60722</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>City of Calgary</roadAuth>
+		<fileDate>2015-10-09</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{BFC5F592-8D6E-E511-9411-005056BC6FAF}</crossingnumber>
+				<city>Calgary</city>
+				<prov>AB</prov>
+				<road>84th Street North East</road>
+				<subdivision>Three Hills</subdivision>
+				<subDivMileage>120.69</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>84th Street North East</rue>
+				<municipalite>Calgary</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70023</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>Corporation of the County of Essex</roadAuth>
+		<fileDate>2015-07-24</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Pedestrian</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{DF8563F2-C54C-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Lakeshore</city>
+				<prov>ON</prov>
+				<road>County Road 25</road>
+				<subdivision>Windsor</subdivision>
+				<subDivMileage>97.73</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>County Road 25</rue>
+				<municipalite>Lakeshore</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70024</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>City of Edmonton</roadAuth>
+		<fileDate>2015-07-24</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Grade separation</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{A88AE4AC-C74C-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Edmonton</city>
+				<prov>AB</prov>
+				<road>West Valley Line (LRT)</road>
+				<subdivision>Scotford</subdivision>
+				<subDivMileage>171.32</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>West Valley Lline (LRT)</rue>
+				<municipalite>Edmonton</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70025</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>Municipality of French River</roadAuth>
+		<fileDate>2015-07-24</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{51209DA9-C94C-E511-9411-005056BCABCB}</crossingnumber>
+				<city>French River</city>
+				<prov>ON</prov>
+				<road/>
+				<subdivision>Parry Sound</subdivision>
+				<subDivMileage>83.37</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue/>
+				<municipalite>French River</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70026</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>Municipality of Clarington</roadAuth>
+		<fileDate>2015-07-24</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Grade separation</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{D165FECA-CA4C-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Bowmanville</city>
+				<prov>ON</prov>
+				<road>Green Road</road>
+				<subdivision>Belleville</subdivision>
+				<subDivMileage>165.4</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>chemin Green</rue>
+				<municipalite>Bowmanville</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70027</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>City of Toronto</roadAuth>
+		<fileDate>2015-07-24</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Grade separation</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{381E9193-CC4C-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Toronto</city>
+				<prov>ON</prov>
+				<road>Finch Avenue East</road>
+				<subdivision>Havelock (CP)</subdivision>
+				<subDivMileage>179.59</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>avenue Finch Est</rue>
+				<municipalite>Toronto</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70028</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>Town of Ajax</roadAuth>
+		<fileDate>2015-07-24</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{CD64CDAC-D34C-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Ajax</city>
+				<prov>ON</prov>
+				<road>Audley Road</road>
+				<subdivision>Belleville</subdivision>
+				<subDivMileage>181.98</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>chemin Audley</rue>
+				<municipalite>Ajax</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70029</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Vancouver Fraser Port Authority</railway>
+		<roadAuth>Corporation of the Township of Langley</roadAuth>
+		<fileDate>2015-07-24</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Grade separation</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{E57632D6-D84C-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Langley</city>
+				<prov>BC</prov>
+				<road>232 Street</road>
+				<subdivision>Page</subdivision>
+				<subDivMileage>16.48</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>232 Street</rue>
+				<municipalite>Langley</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70030</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>County of Simcoe</roadAuth>
+		<fileDate>2015-07-24</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Grade separation</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{8F5D10FF-DF4C-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Essa</city>
+				<prov>ON</prov>
+				<road>Simcoe County Road 90</road>
+				<subdivision>Mactier</subdivision>
+				<subDivMileage>58.86</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>route du comt顤e Simcoe</rue>
+				<municipalite>Essa</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70032</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>City of Toronto</roadAuth>
+		<fileDate>2015-07-24</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Grade separation</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{9EA0F4B9-E24C-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Toronto</city>
+				<prov>ON</prov>
+				<road>Markham Road</road>
+				<subdivision>Belleville</subdivision>
+				<subDivMileage>196.96</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>chemin Markham</rue>
+				<municipalite>Toronto</municipalite>
+			</crossing>
+		</crossings>
+	</record>
 </railAgree>
