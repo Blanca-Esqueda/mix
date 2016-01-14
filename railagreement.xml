@@ -2360,4 +2360,329 @@
 			</crossing>
 		</crossings>
 	</record>
+	<record>
+		<caseNumber>14-01762</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>City of Winnipeg</roadAuth>
+		<fileDate>2014-03-25</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{393C8E0C-164C-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Winnipeg</city>
+				<prov>MB</prov>
+				<road>Shaftesbury Boulevard</road>
+				<subdivision>Rivers</subdivision>
+				<subDivMileage>6.27</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>boulevard Shaftesbury</rue>
+				<municipalite>Winnipeg</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-01763</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Rural Municipality of Vanscoy</roadAuth>
+		<fileDate>2014-03-25</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{1A268916-143A-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Vanscoy</city>
+				<prov>SK</prov>
+				<road>Township Road 3083</road>
+				<subdivision>Watrous</subdivision>
+				<subDivMileage>204.49</subDivMileage>
+				<spur>Vanscoy Spur</spur>
+				<embranchement>Vanscoy Spur</embranchement>
+				<spurMileage>5.8</spurMileage>
+				<rue>chemin de canton 3083</rue>
+				<municipalite>Vanscoy</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-01778</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Rural Municipality of Vanscoy</roadAuth>
+		<fileDate>2014-03-25</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{80004ADC-043A-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Vanscoy</city>
+				<prov>SK</prov>
+				<road>Township Road 362</road>
+				<subdivision>Watrous</subdivision>
+				<subDivMileage>204.49</subDivMileage>
+				<spur>Vanscoy Spur</spur>
+				<embranchement>Vanscoy Spur</embranchement>
+				<spurMileage>1.68</spurMileage>
+				<rue>chemin de canton 362</rue>
+				<municipalite>Vanscoy</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-01781</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Rural Municipality of Vanscoy</roadAuth>
+		<fileDate>2014-03-25</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{AD98D16D-0A3A-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Vanscoy</city>
+				<prov>SK</prov>
+				<road>Township Road 360</road>
+				<subdivision>Watrous</subdivision>
+				<subDivMileage>204.49</subDivMileage>
+				<spur>Vanscoy Spur</spur>
+				<embranchement>Vanscoy Spur</embranchement>
+				<spurMileage>3.7</spurMileage>
+				<rue>chemin de canton 360</rue>
+				<municipalite>Vanscoy</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-01782</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Rural Municipality of Vanscoy</roadAuth>
+		<fileDate>2014-03-25</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{6A4F1786-153A-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Vansoy</city>
+				<prov>SK</prov>
+				<road>Relocated Township Road 3050</road>
+				<subdivision>Watrous</subdivision>
+				<subDivMileage>204.49</subDivMileage>
+				<spur>Vanscoy Spur</spur>
+				<embranchement>Vanscoy Spur</embranchement>
+				<spurMileage>7.15</spurMileage>
+				<rue>chemin de canton relocalis頳050</rue>
+				<municipalite>Vanscoy</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>14-03193</caseNumber>
+		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
+		<railway>BNSF Railway Company</railway>
+		<roadAuth>City of Vancouver</roadAuth>
+		<fileDate>2014-06-13</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Utility Crossing</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{BF48030E-3A47-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Vancouver</city>
+				<prov>BC</prov>
+				<road/>
+				<subdivision>Burrard Inlet (BN)</subdivision>
+				<subDivMileage/>
+				<spur>Line Segment 0424</spur>
+				<embranchement>Line Segment 0424</embranchement>
+				<spurMileage>0.62</spurMileage>
+				<rue/>
+				<municipalite>Vancouver</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-01574</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>Canadian National Railway Company</roadAuth>
+		<fileDate>2015-03-12</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Railway crossing (99(1))</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{EE054524-3B40-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Edmonton</city>
+				<prov>AB</prov>
+				<road/>
+				<subdivision>Scotford</subdivision>
+				<subDivMileage>167.7</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue/>
+				<municipalite>Edmonton</municipalite>
+			</crossing>
+			<crossing>
+				<crossingnumber>{FC22B27F-3B40-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Edmonton</city>
+				<prov>AB</prov>
+				<road/>
+				<subdivision>Camrose</subdivision>
+				<subDivMileage>2.6</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue/>
+				<municipalite>Edmonton</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-01575</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>Ville de L'Ϭe-Perrot</roadAuth>
+		<fileDate>2015-03-24</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Pedestrian</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{62FC8454-903F-E511-9411-005056BCABCB}</crossingnumber>
+				<city>L'Ϭe-Perrot</city>
+				<prov>QC</prov>
+				<road>boulevard Perrot Nord</road>
+				<subdivision>Vaudreuil</subdivision>
+				<subDivMileage>16.62</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>boulevard Perrot Nord</rue>
+				<municipalite>L'Ϭe-Perrot</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-01662</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Alberta Ministry of Transportation</railway>
+		<roadAuth>Canadian Pacific Railway Company</roadAuth>
+		<fileDate>2015-03-25</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Grade separation</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{EEA611D5-693F-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Edmonton</city>
+				<prov>AB</prov>
+				<road>Anthony Henday Drive</road>
+				<subdivision>Scotford</subdivision>
+				<subDivMileage>163.4</subDivMileage>
+				<spur>Meridian Spur</spur>
+				<embranchement>Meridian Spur</embranchement>
+				<spurMileage>1.51</spurMileage>
+				<rue>Anthony Henday Drive</rue>
+				<municipalite>Edmonton</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-02071</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Alberta Ministry of Transportation</railway>
+		<roadAuth>Canadian Pacific Railway Company</roadAuth>
+		<fileDate>2015-03-25</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Grade separation</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{9BCFD5C1-5147-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Edmonton</city>
+				<prov>AB</prov>
+				<road>Highway 16</road>
+				<subdivision>Scotford</subdivision>
+				<subDivMileage>164.59</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Highway 16</rue>
+				<municipalite>Edmonton</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-02074</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Alberta Ministry of Transportation</railway>
+		<roadAuth>Canadian Pacific Railway Company</roadAuth>
+		<fileDate>2015-03-25</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Grade separation</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{EF0A3704-0341-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Edmonton</city>
+				<prov>AB</prov>
+				<road>Anthony Henday Drive</road>
+				<subdivision>Scotford</subdivision>
+				<subDivMileage>164.67</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Anthony Henday Drive</rue>
+				<municipalite>Edmonton</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-02076</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Alberta Ministry of Transportation</railway>
+		<roadAuth>Canadian Pacific Railway Company</roadAuth>
+		<fileDate>2015-03-25</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Grade separation</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{91F893C2-0441-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Edmonton</city>
+				<prov>AB</prov>
+				<road>Anthony Henday Drive</road>
+				<subdivision>Scotford</subdivision>
+				<subDivMileage>164.71</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Anthony Henday Drive</rue>
+				<municipalite>Edmonton</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-02078</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Alberta Ministry of Transportation</railway>
+		<roadAuth>Canadian Pacific Railway Company</roadAuth>
+		<fileDate>2015-03-25</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Grade separation</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{90C693EE-0541-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Edmonton</city>
+				<prov>AB</prov>
+				<road>Anthony Henday Drive</road>
+				<subdivision>Scotford</subdivision>
+				<subDivMileage>165.08</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Anthony Henday Drive</rue>
+				<municipalite>Edmonton</municipalite>
+			</crossing>
+		</crossings>
+	</record>
 </railAgree>
