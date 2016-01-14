@@ -3117,4 +3117,329 @@
 			</crossing>
 		</crossings>
 	</record>
+	<record>
+		<caseNumber>15-70034</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>Corporation of the Township of Langley</roadAuth>
+		<fileDate>2015-07-24</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Grade separation</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{A84D18E9-E44C-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Langley</city>
+				<prov>BC</prov>
+				<road>Mufford Crescent</road>
+				<subdivision>Page</subdivision>
+				<subDivMileage>19.91</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Mufford Crescent</rue>
+				<municipalite>Langley</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70035</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>City of Belleville</roadAuth>
+		<fileDate>2015-07-24</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Grade separation</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{9A93036F-E64C-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Belleville</city>
+				<prov>ON</prov>
+				<road>Bay Bridge Road</road>
+				<subdivision>Belleville</subdivision>
+				<subDivMileage>92.54</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>chemin Bay Bridge</rue>
+				<municipalite>Belleville</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70036</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>City of Camrose</roadAuth>
+		<fileDate>2015-07-24</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{8EB8312F-E84C-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Camrose</city>
+				<prov>AB</prov>
+				<road>Highway 13</road>
+				<subdivision>Wetaskiwin</subdivision>
+				<subDivMileage>67.18</subDivMileage>
+				<spur>Cargill Spur</spur>
+				<embranchement>Cargill Spur</embranchement>
+				<spurMileage>0.07</spurMileage>
+				<rue>Highway 13</rue>
+				<municipalite>Camrose</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70037</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>Ministry of Transportation of Ontario</roadAuth>
+		<fileDate>2015-07-24</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Grade separation</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{3C8C262F-F34C-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Mississauga</city>
+				<prov>ON</prov>
+				<road>Highway 403</road>
+				<subdivision>Galt</subdivision>
+				<subDivMileage>18.53</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>route 403</rue>
+				<municipalite>Mississauga</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70038</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>Ministry of Transportation of Ontario</roadAuth>
+		<fileDate>2015-07-24</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Grade separation</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{A18F3583-F44C-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Welland</city>
+				<prov>ON</prov>
+				<road>Highway 140</road>
+				<subdivision>Hamilton</subdivision>
+				<subDivMileage>15.09</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>route 140</rue>
+				<municipalite>Welland</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70039</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>Ministry of Transportation of Ontario</roadAuth>
+		<fileDate>2015-07-24</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Grade separation</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{BBB01FBE-F54C-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Whitby</city>
+				<prov>ON</prov>
+				<road>Highway 407 East</road>
+				<subdivision>Belleville</subdivision>
+				<subDivMileage>181.21</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>route 407 est</rue>
+				<municipalite>Whitby</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70042</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>City of Hamilton</roadAuth>
+		<fileDate>2015-07-24</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Grade separation</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{4BA0ACF3-E24F-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Hamilton</city>
+				<prov>ON</prov>
+				<road>Pearl Street</road>
+				<subdivision>Hamilton</subdivision>
+				<subDivMileage>58.27</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>rue Pearl</rue>
+				<municipalite>Hamilton</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70043</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>Township of Havelock-Belmont-Methuen</roadAuth>
+		<fileDate>2015-07-24</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Pedestrian</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{AEF8B56B-E74F-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Havelock</city>
+				<prov>ON</prov>
+				<road>Concession Street</road>
+				<subdivision>Havelock (CP)</subdivision>
+				<subDivMileage>94.13</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Concession Street</rue>
+				<municipalite>Havelock</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70044</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>Ville de Sainte-Th골se</roadAuth>
+		<fileDate>2015-07-24</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{F81A3969-ED4F-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Sainte-Th골se</city>
+				<prov>QC</prov>
+				<road>Blainville Street West</road>
+				<subdivision>Parc</subdivision>
+				<subDivMileage>20.82</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>rue Blainville ouest</rue>
+				<municipalite>Sainte-Th골se</municipalite>
+			</crossing>
+			<crossing>
+				<crossingnumber>{1E1F3D96-ED4F-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Sainte-Th골se</city>
+				<prov>QC</prov>
+				<road>Saint-Louis Street</road>
+				<subdivision>Parc</subdivision>
+				<subDivMileage>21.26</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>rue Saint-Louis</rue>
+				<municipalite>Sainte-Th골se</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70045</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>Ville de Blainville</roadAuth>
+		<fileDate>2015-07-24</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{D6E6073C-F24F-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Blainville</city>
+				<prov>QC</prov>
+				<road>C������St-Louis Est road</road>
+				<subdivision>Parc</subdivision>
+				<subDivMileage>22.21</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>chemin C������St-Louis Est</rue>
+				<municipalite>Blainville</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70046</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>Ville de Pointe-Claire</roadAuth>
+		<fileDate>2015-07-24</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Grade separation</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{524CF1FD-F54F-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Pointe-Claire</city>
+				<prov>QC</prov>
+				<road>Boulevard Saint-Jean</road>
+				<subdivision>Vaudreuil</subdivision>
+				<subDivMileage>8.54</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>boulevard Saint-Jean</rue>
+				<municipalite>Pointe-Claire</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70047</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>City of Vancouver</roadAuth>
+		<fileDate>2015-07-24</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Grade separation, Pedestrian</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{A6850654-F84F-E511-9411-005056BCABCB}</crossingnumber>
+				<city>Vancouver</city>
+				<prov>BC</prov>
+				<road>Victoria Drive</road>
+				<subdivision>Cascade</subdivision>
+				<subDivMileage>126.85</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Victoria Drive</rue>
+				<municipalite>Vancouver</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70064</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>Region of Waterloo</roadAuth>
+		<fileDate>2015-07-17</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Grade separation</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>{AC3B52BC-CF99-E511-9414-005056BCABCB}</crossingnumber>
+				<city>Cambridge</city>
+				<prov>ON</prov>
+				<road>Franklin Boulevard</road>
+				<subdivision>Galt</subdivision>
+				<subDivMileage>56.14</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>boulevard Franklin</rue>
+				<municipalite>Cambridge</municipalite>
+			</crossing>
+		</crossings>
+	</record>
 </railAgree>
