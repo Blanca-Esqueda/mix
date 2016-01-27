@@ -443,19 +443,6 @@
 				<rue/>
 				<municipalite>Kamloops</municipalite>
 			</crossing>
-			<crossing>
-				<crossingnumber>13-04922B</crossingnumber>
-				<city>Kamloops</city>
-				<prov>BC</prov>
-				<road/>
-				<subdivision>Shuswap</subdivision>
-				<subDivMileage>127.3</subDivMileage>
-				<spur/>
-				<embranchement/>
-				<spurMileage/>
-				<rue/>
-				<municipalite/>
-			</crossing>
 		</crossings>
 	</record>
 	<record>
@@ -2581,8 +2568,8 @@
 	<record>
 		<caseNumber>15-01662</caseNumber>
 		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
-		<railway>Alberta Ministry of Transportation</railway>
-		<roadAuth>Canadian Pacific Railway Company</roadAuth>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>Alberta Ministry of Transportation</roadAuth>
 		<fileDate>2015-03-25</fileDate>
 		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Grade separation</worktype>
@@ -2605,8 +2592,8 @@
 	<record>
 		<caseNumber>15-02071</caseNumber>
 		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
-		<railway>Alberta Ministry of Transportation</railway>
-		<roadAuth>Canadian Pacific Railway Company</roadAuth>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>Alberta Ministry of Transportation</roadAuth>
 		<fileDate>2015-03-25</fileDate>
 		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Grade separation</worktype>
@@ -2629,8 +2616,8 @@
 	<record>
 		<caseNumber>15-02074</caseNumber>
 		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
-		<railway>Alberta Ministry of Transportation</railway>
-		<roadAuth>Canadian Pacific Railway Company</roadAuth>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>Alberta Ministry of Transportation</roadAuth>
 		<fileDate>2015-03-25</fileDate>
 		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Grade separation</worktype>
@@ -2653,8 +2640,8 @@
 	<record>
 		<caseNumber>15-02076</caseNumber>
 		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
-		<railway>Alberta Ministry of Transportation</railway>
-		<roadAuth>Canadian Pacific Railway Company</roadAuth>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>Alberta Ministry of Transportation</roadAuth>
 		<fileDate>2015-03-25</fileDate>
 		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Grade separation</worktype>
@@ -2677,8 +2664,8 @@
 	<record>
 		<caseNumber>15-02078</caseNumber>
 		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
-		<railway>Alberta Ministry of Transportation</railway>
-		<roadAuth>Canadian Pacific Railway Company</roadAuth>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>Alberta Ministry of Transportation</roadAuth>
 		<fileDate>2015-03-25</fileDate>
 		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Grade separation</worktype>
@@ -2701,8 +2688,8 @@
 	<record>
 		<caseNumber>15-02079</caseNumber>
 		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
-		<railway>Alberta Ministry of Transportation</railway>
-		<roadAuth>Canadian Pacific Railway Company</roadAuth>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>Alberta Ministry of Transportation</roadAuth>
 		<fileDate>2015-03-25</fileDate>
 		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Grade separation</worktype>
@@ -3061,7 +3048,7 @@
 	<record>
 		<caseNumber>15-70029</caseNumber>
 		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
-		<railway>Vancouver Fraser Port Authority</railway>
+		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Corporation of the Township of Langley</roadAuth>
 		<fileDate>2015-07-24</fileDate>
 		<nature>Construction, Apportionment of the costs, Maintenance</nature>
@@ -3411,7 +3398,7 @@
 		<caseNumber>15-70047</caseNumber>
 		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
 		<railway>Canadian Pacific Railway Company</railway>
-		<roadAuth>City of Vancouver</roadAuth>
+		<roadAuth>Vancouver Fraser Port Authority</roadAuth>
 		<fileDate>2015-07-24</fileDate>
 		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Grade separation, Pedestrian</worktype>
@@ -3428,6 +3415,30 @@
 				<spurMileage/>
 				<rue>Victoria Drive</rue>
 				<municipalite>Vancouver</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70062</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>City of Regina</roadAuth>
+		<fileDate>2015-11-12</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Utility Crossing</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>15-70062A</crossingnumber>
+				<city>Moosejaw</city>
+				<prov>SK</prov>
+				<road>Crossing No. 22</road>
+				<subdivision/>
+				<subDivMileage/>
+				<spur>Belle Plaine Spur</spur>
+				<embranchement>Belle Plaine Spur</embranchement>
+				<spurMileage>10.06</spurMileage>
+				<rue>Crossing No. 22</rue>
+				<municipalite>Mossejaw</municipalite>
 			</crossing>
 		</crossings>
 	</record>
@@ -3452,6 +3463,246 @@
 				<spurMileage/>
 				<rue>boulevard Franklin</rue>
 				<municipalite>Cambridge</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70065</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>SaskPower Corporation</roadAuth>
+		<fileDate>2015-10-23</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Utility Crossing</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>15-70065A</crossingnumber>
+				<city>Belle Plaine</city>
+				<prov>SK</prov>
+				<road>Crossing No. 5</road>
+				<subdivision>Indian Head</subdivision>
+				<subDivMileage/>
+				<spur>Belle Plaine Spur</spur>
+				<embranchement>Belle Plaine Spur</embranchement>
+				<spurMileage>1.71</spurMileage>
+				<rue>Crossing No. 5</rue>
+				<municipalite>Belle Plaine</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70066</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>SaskPower Corporation</roadAuth>
+		<fileDate>2015-10-23</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Utility Crossing</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>15-70066A</crossingnumber>
+				<city>Belle Plaine</city>
+				<prov>SK</prov>
+				<road>Crossing No. 9</road>
+				<subdivision>Indian Head</subdivision>
+				<subDivMileage/>
+				<spur>Belle Plaine Spur</spur>
+				<embranchement>Belle Plaine Spur</embranchement>
+				<spurMileage>3.29</spurMileage>
+				<rue>Crossing No. 9</rue>
+				<municipalite>Belle Plaine</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70067</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>SaskPower Corporation</roadAuth>
+		<fileDate>2015-10-23</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Utility Crossing</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>15-70067A</crossingnumber>
+				<city>Belle Plaine</city>
+				<prov>SK</prov>
+				<road>Crossing No. 6</road>
+				<subdivision>Indian Head</subdivision>
+				<subDivMileage/>
+				<spur>Belle Plaine Spur</spur>
+				<embranchement>Belle Plaine Spur</embranchement>
+				<spurMileage>2.24</spurMileage>
+				<rue>Crossing No. 6</rue>
+				<municipalite>Belle Plaine</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70068</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>SaskPower Corporation</roadAuth>
+		<fileDate>2015-10-23</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Utility Crossing</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>15-70068A</crossingnumber>
+				<city>Belle Plaine</city>
+				<prov>SK</prov>
+				<road>Crossing No. 4</road>
+				<subdivision>Indian Head</subdivision>
+				<subDivMileage/>
+				<spur>Belle Plaine Spur</spur>
+				<embranchement>Belle Plaine Spur</embranchement>
+				<spurMileage>1.19</spurMileage>
+				<rue>Crossing No. 4</rue>
+				<municipalite>Belle Plaine</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70069</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>SaskPower Corporation</roadAuth>
+		<fileDate>2015-10-23</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Utility Crossing</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>15-70069A</crossingnumber>
+				<city>Belle Plaine</city>
+				<prov>SK</prov>
+				<road>Crossing No. 7</road>
+				<subdivision>Indian Head</subdivision>
+				<subDivMileage/>
+				<spur>Belle Plaine Spur</spur>
+				<embranchement>Belle Plaine Spur</embranchement>
+				<spurMileage>2.22</spurMileage>
+				<rue>Crossing No. 7</rue>
+				<municipalite>Belle Plaine</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70070</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>SaskPower Corporation</roadAuth>
+		<fileDate>2015-10-23</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Utility Crossing</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>15-70070A</crossingnumber>
+				<city>Belle Plaine</city>
+				<prov>SK</prov>
+				<road>Crossing No. 15</road>
+				<subdivision>Indian Head</subdivision>
+				<subDivMileage/>
+				<spur>Belle Plaine Spur</spur>
+				<embranchement>Belle Plaine Spur</embranchement>
+				<spurMileage>5.79</spurMileage>
+				<rue>Crossing No. 15</rue>
+				<municipalite>Belle Plaine</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70071</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>SaskPower Corporation</roadAuth>
+		<fileDate>2015-10-23</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Utility Crossing</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>15-70071A</crossingnumber>
+				<city>Belle Plaine</city>
+				<prov>SK</prov>
+				<road>Crossing No. 17</road>
+				<subdivision>Indian Head</subdivision>
+				<subDivMileage/>
+				<spur>Belle Plaine Spur</spur>
+				<embranchement>Belle Plaine Spur</embranchement>
+				<spurMileage>6</spurMileage>
+				<rue>Crossing No. 17</rue>
+				<municipalite>Belle Plaine</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70072</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>SaskPower Corporation</roadAuth>
+		<fileDate>2015-10-23</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Utility Crossing</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>15-70072A</crossingnumber>
+				<city>Belle Plaine</city>
+				<prov>SK</prov>
+				<road>Crossing No. 25</road>
+				<subdivision>Indian Head</subdivision>
+				<subDivMileage/>
+				<spur>Belle Plaine Spur</spur>
+				<embranchement>Belle Plaine Spur</embranchement>
+				<spurMileage>10.36</spurMileage>
+				<rue>Crossing No. 25</rue>
+				<municipalite>Belle Plaine</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70073</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>SaskPower Corporation</roadAuth>
+		<fileDate>2015-10-23</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Utility Crossing</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>15-70073A</crossingnumber>
+				<city>Belle Plaine</city>
+				<prov>SK</prov>
+				<road>Crossing No. 26</road>
+				<subdivision>Indian Head</subdivision>
+				<subDivMileage/>
+				<spur>Belle Plaine Spur</spur>
+				<embranchement>Belle Plaine Spur</embranchement>
+				<spurMileage>11.36</spurMileage>
+				<rue>Crossing No. 26</rue>
+				<municipalite>Belle Plaine</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-70074</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>SaskPower Corporation</roadAuth>
+		<fileDate>2015-10-23</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Utility Crossing</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>15-70074A</crossingnumber>
+				<city>Belle Plaine</city>
+				<prov>SK</prov>
+				<road>Crossing No. 30</road>
+				<subdivision>Indian Head</subdivision>
+				<subDivMileage/>
+				<spur>Belle Plaine Spur</spur>
+				<embranchement>Belle Plaine Spur</embranchement>
+				<spurMileage>12.74</spurMileage>
+				<rue>Crossing No. 30</rue>
+				<municipalite>Belle Plaine</municipalite>
 			</crossing>
 		</crossings>
 	</record>
