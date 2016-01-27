@@ -2830,6 +2830,78 @@
 		</crossings>
 	</record>
 	<record>
+		<caseNumber>15-60644</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Lamont County</roadAuth>
+		<fileDate>2015-10-06</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>15-60644A</crossingnumber>
+				<city>Bruderheim</city>
+				<prov>AB</prov>
+				<road>Range Road 202</road>
+				<subdivision>Vegreville</subdivision>
+				<subDivMileage>96.92</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Range Road 202</rue>
+				<municipalite>Bruderheim</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-60651</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Town of Edson</roadAuth>
+		<fileDate>2015-10-06</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>15-60651A</crossingnumber>
+				<city>Edson</city>
+				<prov>AB</prov>
+				<road>63 Street</road>
+				<subdivision>Edson</subdivision>
+				<subDivMileage>130.9</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>63 Street</rue>
+				<municipalite>Edson</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-60659</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>City of Grande Prairie</roadAuth>
+		<fileDate>2015-10-06</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Pedestrian, Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>15-60659A</crossingnumber>
+				<city>Grande Prairie</city>
+				<prov>AB</prov>
+				<road>116th Avenue</road>
+				<subdivision>Grande Prairie</subdivision>
+				<subDivMileage>48.27</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>116th Avenue</rue>
+				<municipalite>Grande Prairie</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
 		<caseNumber>15-60667</caseNumber>
 		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
 		<railway>Canadian National Railway Company</railway>
@@ -2878,6 +2950,126 @@
 		</crossings>
 	</record>
 	<record>
+		<caseNumber>15-60695</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Resort Municipality of Whistler</roadAuth>
+		<fileDate>2015-10-08</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Pedestrian, Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>15-60695A</crossingnumber>
+				<city>Resort Municipality of Whistler</city>
+				<prov>BC</prov>
+				<road>Alpha Lake Road</road>
+				<subdivision>Squamish</subdivision>
+				<subDivMileage>71.7</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>chemin Alpha Lake</rue>
+				<municipalite>Resort Municipality of Whistler</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-60700</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>City of Grande Prairie</roadAuth>
+		<fileDate>2015-10-08</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>15-60700A</crossingnumber>
+				<city>Grande Prairie</city>
+				<prov>AB</prov>
+				<road>108th Street</road>
+				<subdivision>Grande Prairie</subdivision>
+				<subDivMileage>50.91</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>108th Street</rue>
+				<municipalite>Grande Prairie</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-60704</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>City of St. Albert</roadAuth>
+		<fileDate>2015-10-08</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>15-60704A</crossingnumber>
+				<city>St. Albert</city>
+				<prov>AB</prov>
+				<road>Levasseur Road</road>
+				<subdivision>Sangudo</subdivision>
+				<subDivMileage>3.43</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>chemin Levasseur</rue>
+				<municipalite>St. Albert</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-60708</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Town of Whitecourt</roadAuth>
+		<fileDate>2015-10-08</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>15-60708A</crossingnumber>
+				<city>Whitecourt</city>
+				<prov>AB</prov>
+				<road>51st Street</road>
+				<subdivision>Sangudo</subdivision>
+				<subDivMileage>103.15</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>51st Street</rue>
+				<municipalite>Whitecourt</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-60718</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Rocky View County</roadAuth>
+		<fileDate>2015-10-09</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>15-60718A</crossingnumber>
+				<city>Conrich</city>
+				<prov>AB</prov>
+				<road>Range Road 285</road>
+				<subdivision>Three Hills</subdivision>
+				<subDivMileage>119.27</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Range Road 285</rue>
+				<municipalite>Conrich</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
 		<caseNumber>15-60722</caseNumber>
 		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
 		<railway>Canadian National Railway Company</railway>
@@ -2897,6 +3089,102 @@
 				<embranchement/>
 				<spurMileage/>
 				<rue>84th Street North East</rue>
+				<municipalite>Calgary</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-60727</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>City of Calgary</roadAuth>
+		<fileDate>2015-10-09</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Pedestrian, Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>15-60727A</crossingnumber>
+				<city>Calgary</city>
+				<prov>AB</prov>
+				<road>17 Avenue SE</road>
+				<subdivision>Three Hills</subdivision>
+				<subDivMileage>123.06</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>17 Avenue SE</rue>
+				<municipalite>Calgary</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-60732</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>Lamont County</roadAuth>
+		<fileDate>2015-10-09</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>15-60732A</crossingnumber>
+				<city>Bruderheim</city>
+				<prov>AB</prov>
+				<road>Range Road 202</road>
+				<subdivision>Vegreville</subdivision>
+				<subDivMileage>96.92</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>Range Road 202</rue>
+				<municipalite>Bruderheim</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-60739</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>City of Terrace</roadAuth>
+		<fileDate>2015-10-09</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>15-60739A</crossingnumber>
+				<city>Terrace</city>
+				<prov>BC</prov>
+				<road>Frank Street</road>
+				<subdivision>Skeena</subdivision>
+				<subDivMileage>2.19</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue>rue Frank</rue>
+				<municipalite>Terrace</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>15-60744</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian National Railway Company</railway>
+		<roadAuth>City of Calgary</roadAuth>
+		<fileDate>2015-10-09</fileDate>
+		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
+		<worktype>Crossing at grade, Warning signals</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>15-60744A</crossingnumber>
+				<city>Calgary</city>
+				<prov>AB</prov>
+				<road>Highfield Connector</road>
+				<subdivision>Drumheller</subdivision>
+				<subDivMileage>131.88</subDivMileage>
+				<spur>East Highfield Industrial Lead</spur>
+				<embranchement>East Highfield Industrial Lead</embranchement>
+				<spurMileage>0.13</spurMileage>
+				<rue>Highfield Connector</rue>
 				<municipalite>Calgary</municipalite>
 			</crossing>
 		</crossings>
@@ -3702,6 +3990,30 @@
 				<embranchement>Belle Plaine Spur</embranchement>
 				<spurMileage>12.74</spurMileage>
 				<rue>Crossing No. 30</rue>
+				<municipalite>Belle Plaine</municipalite>
+			</crossing>
+		</crossings>
+	</record>
+	<record>
+		<caseNumber>16-70008</caseNumber>
+		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
+		<railway>Canadian Pacific Railway Company</railway>
+		<roadAuth>SaskPower Corporation</roadAuth>
+		<fileDate>2016-01-14</fileDate>
+		<nature>Construction, Apportionment of the costs, Maintenance</nature>
+		<worktype>Utility Crossing</worktype>
+		<crossings>
+			<crossing>
+				<crossingnumber>16-70008A</crossingnumber>
+				<city>Belle Plaine</city>
+				<prov>SK</prov>
+				<road>Crossing No. 31</road>
+				<subdivision>Indian Head</subdivision>
+				<subDivMileage/>
+				<spur>Belle Plaine Spur</spur>
+				<embranchement>Belle Plaine Spur</embranchement>
+				<spurMileage>16.45</spurMileage>
+				<rue>Crossing No. 31</rue>
 				<municipalite>Belle Plaine</municipalite>
 			</crossing>
 		</crossings>
