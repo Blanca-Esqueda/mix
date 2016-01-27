@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="ISO-8859-1"?>
 <railAgree>
 	<record>
 		<caseNumber>11-05600</caseNumber>
 		<fileNumber>OP-017-0405-005/2012/001</fileNumber>
 		<railway>Canadian Pacific Railway Company</railway>
 		<roadAuth>Rural Municipality of Vanscoy</roadAuth>
-		<fileDate>2011-10-04 00:00:00</fileDate>
+		<fileDate>2011-10-04</fileDate>
 		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{BD4BAD0C-9646-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>11-05600A</crossingnumber>
 				<city>Vanscoy</city>
 				<prov>SK</prov>
 				<road/>
@@ -34,7 +34,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{75D0C36F-D136-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>11-05628A</crossingnumber>
 				<city>Coquitlam</city>
 				<prov>BC</prov>
 				<road>King Edward Street</road>
@@ -58,7 +58,7 @@
 		<worktype>Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{6A3F8205-6E34-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>12-04839A</crossingnumber>
 				<city>Rainy River</city>
 				<prov>ON</prov>
 				<road>Government Road</road>
@@ -82,7 +82,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{EE9A5F95-E536-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-01504A</crossingnumber>
 				<city>Surrey</city>
 				<prov>BC</prov>
 				<road>Tannery Road</road>
@@ -106,7 +106,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{5506312A-9846-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-02665A</crossingnumber>
 				<city>Wallace</city>
 				<prov>MB</prov>
 				<road>Municipal Road</road>
@@ -130,7 +130,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{70281AB5-9F46-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-02667A</crossingnumber>
 				<city>Wallace</city>
 				<prov>MB</prov>
 				<road>Municipal Road</road>
@@ -154,7 +154,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{942B32E4-A046-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-02669A</crossingnumber>
 				<city>Wallace</city>
 				<prov>MB</prov>
 				<road>Municipal Road</road>
@@ -178,7 +178,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{B3A27235-9946-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-02671A</crossingnumber>
 				<city>Wallace</city>
 				<prov>MB</prov>
 				<road>Municipal Road</road>
@@ -202,7 +202,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{C27BA6AD-AB45-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-02808A</crossingnumber>
 				<city>Calgary</city>
 				<prov>AB</prov>
 				<road>96th Avenue N.E.</road>
@@ -226,7 +226,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{4CB1E0FC-5047-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-04586A</crossingnumber>
 				<city>Edmonton</city>
 				<prov>AB</prov>
 				<road>Highway 16</road>
@@ -250,7 +250,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{C67C097D-723F-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-04587A</crossingnumber>
 				<city>Edmonton</city>
 				<prov>AB</prov>
 				<road>Anthony Henday Drive</road>
@@ -263,7 +263,7 @@
 				<municipalite>Edmonton</municipalite>
 			</crossing>
 			<crossing>
-				<crossingnumber>{973B3E15-8C3F-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-04587B</crossingnumber>
 				<city>Edmonton</city>
 				<prov>AB</prov>
 				<road>Anthony Henday Drive</road>
@@ -287,7 +287,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{567ABB78-753F-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-04588A</crossingnumber>
 				<city>Edmonton</city>
 				<prov>AB</prov>
 				<road>Anthony Henday Drive</road>
@@ -311,7 +311,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{70508341-613F-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-04589A</crossingnumber>
 				<city>Edmonton</city>
 				<prov>AB</prov>
 				<road>Anthony Henday Drive</road>
@@ -335,7 +335,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{D6F0C146-4C3C-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-04590A</crossingnumber>
 				<city>Edmonton</city>
 				<prov>AB</prov>
 				<road>Anthony Henday Drive</road>
@@ -359,7 +359,7 @@
 		<worktype>Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{0DA01189-E936-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-04919A</crossingnumber>
 				<city>Leduc</city>
 				<prov>AB</prov>
 				<road>Grant MacEwan Drive</road>
@@ -383,7 +383,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{962B675A-F039-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-04920A</crossingnumber>
 				<city>Winnipeg</city>
 				<prov>MB</prov>
 				<road>Adsum Drive</road>
@@ -407,7 +407,7 @@
 		<worktype>Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{F1222D54-F939-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-04921A</crossingnumber>
 				<city>Lloydminster</city>
 				<prov>SK</prov>
 				<road>40th Avenue</road>
@@ -431,7 +431,7 @@
 		<worktype>Grade separation, Pedestrian</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{A7A6C3FD-013A-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-04922A</crossingnumber>
 				<city>Kamloops</city>
 				<prov>BC</prov>
 				<road/>
@@ -442,6 +442,19 @@
 				<spurMileage/>
 				<rue/>
 				<municipalite>Kamloops</municipalite>
+			</crossing>
+			<crossing>
+				<crossingnumber>13-04922B</crossingnumber>
+				<city>Kamloops</city>
+				<prov>BC</prov>
+				<road/>
+				<subdivision>Shuswap</subdivision>
+				<subDivMileage>127.3</subDivMileage>
+				<spur/>
+				<embranchement/>
+				<spurMileage/>
+				<rue/>
+				<municipalite/>
 			</crossing>
 		</crossings>
 	</record>
@@ -455,7 +468,7 @@
 		<worktype>Grade separation, Pedestrian</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{3A9775E5-FD39-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-04923A</crossingnumber>
 				<city>Calgary</city>
 				<prov>AB</prov>
 				<road/>
@@ -479,7 +492,7 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{DD1698A0-1D41-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-04924A</crossingnumber>
 				<city>Antelope</city>
 				<prov>SK</prov>
 				<road>Range Road 180</road>
@@ -492,7 +505,7 @@
 				<municipalite>Antelope</municipalite>
 			</crossing>
 			<crossing>
-				<crossingnumber>{CF80834D-5982-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-04924B</crossingnumber>
 				<city>Antelope</city>
 				<prov>SK</prov>
 				<road>Range Road 181</road>
@@ -505,7 +518,7 @@
 				<municipalite>Antelope</municipalite>
 			</crossing>
 			<crossing>
-				<crossingnumber>{20D642AF-F486-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-04924C</crossingnumber>
 				<city>Antelope</city>
 				<prov>SK</prov>
 				<road>Range Road 182</road>
@@ -529,7 +542,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{88ED2CAE-8146-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-05147A</crossingnumber>
 				<city>Peterborough</city>
 				<prov>ON</prov>
 				<road>11th Line</road>
@@ -553,7 +566,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{452DE777-7B46-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-05155A</crossingnumber>
 				<city>Prairie Rose</city>
 				<prov>SK</prov>
 				<road/>
@@ -577,7 +590,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{48FB6734-983F-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-05170A</crossingnumber>
 				<city>Swift Current</city>
 				<prov>SK</prov>
 				<road>Lac Pelletier Trail</road>
@@ -601,7 +614,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{6BC88CF6-B545-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-05412A</crossingnumber>
 				<city>Edmonton</city>
 				<prov>AB</prov>
 				<road>82nd Street</road>
@@ -625,7 +638,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{109457B3-FF39-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-05413A</crossingnumber>
 				<city>Rocky View</city>
 				<prov>AB</prov>
 				<road>Glenbow Ranch Park Access</road>
@@ -649,7 +662,7 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{6B11DC9C-D045-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-05416A</crossingnumber>
 				<city>Southwest Middlesex</city>
 				<prov>ON</prov>
 				<road>Pratt Siding Road</road>
@@ -673,7 +686,7 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{A271AA7C-1F41-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-05417A</crossingnumber>
 				<city>Ribstone</city>
 				<prov>AB</prov>
 				<road>Highway 899</road>
@@ -697,7 +710,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{E9D77EA3-7946-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-05418A</crossingnumber>
 				<city>Cardiff</city>
 				<prov>AB</prov>
 				<road>Township Road 554</road>
@@ -721,7 +734,7 @@
 		<worktype>Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{15EC9EC1-3740-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-05419A</crossingnumber>
 				<city>Bruce</city>
 				<prov>AB</prov>
 				<road>Highway 857</road>
@@ -745,7 +758,7 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{603B96A0-B845-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-05420A</crossingnumber>
 				<city>St. Albert</city>
 				<prov>AB</prov>
 				<road>Meadowview Drive</road>
@@ -769,7 +782,7 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{FFE8036C-A446-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-05422A</crossingnumber>
 				<city>Muskoka Lakes</city>
 				<prov>ON</prov>
 				<road>Southwood Road</road>
@@ -793,7 +806,7 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{36F847CC-B745-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-05424A</crossingnumber>
 				<city>St. Albert</city>
 				<prov>AB</prov>
 				<road>Riel Drive</road>
@@ -817,7 +830,7 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{C4AF40FA-2D48-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-05883A</crossingnumber>
 				<city>Rural Municipality of Swirft Current No. 137</city>
 				<prov>SK</prov>
 				<road>Lac Pelletier Trail</road>
@@ -830,7 +843,7 @@
 				<municipalite>Rural Municipality of Swirft Current No. 137</municipalite>
 			</crossing>
 			<crossing>
-				<crossingnumber>{3A573A22-2E48-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-05883B</crossingnumber>
 				<city>Rural Municipality of Swirft Current No. 137</city>
 				<prov>SK</prov>
 				<road>Range Road 144</road>
@@ -843,7 +856,7 @@
 				<municipalite>Rural Municipality of Swirft Current No. 137</municipalite>
 			</crossing>
 			<crossing>
-				<crossingnumber>{D5303460-2E48-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-05883C</crossingnumber>
 				<city>Rural Municipality of Swirft Current No. 137</city>
 				<prov>SK</prov>
 				<road>Township Road 154</road>
@@ -856,7 +869,7 @@
 				<municipalite>Rural Municipality of Swirft Current No. 137</municipalite>
 			</crossing>
 			<crossing>
-				<crossingnumber>{B2C5BC93-2E48-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-05883D</crossingnumber>
 				<city>Rural Municipality of Swirft Current No. 137</city>
 				<prov>SK</prov>
 				<road>Highway No. 630</road>
@@ -869,7 +882,7 @@
 				<municipalite>Rural Municipality of Swirft Current No. 137</municipalite>
 			</crossing>
 			<crossing>
-				<crossingnumber>{7B8AF1BF-2E48-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-05883E</crossingnumber>
 				<city>Rural Municipality of Swirft Current No. 137</city>
 				<prov>SK</prov>
 				<road>Range Road 132</road>
@@ -882,7 +895,7 @@
 				<municipalite>Rural Municipality of Swirft Current No. 137</municipalite>
 			</crossing>
 			<crossing>
-				<crossingnumber>{26D031F0-2E48-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-05883F</crossingnumber>
 				<city>Rural Municipality of Swirft Current No. 137</city>
 				<prov>SK</prov>
 				<road>Township Road 160</road>
@@ -900,14 +913,14 @@
 		<caseNumber>13-05886</caseNumber>
 		<fileNumber>OP-017-0405-005/2013/001</fileNumber>
 		<railway>Canadian Pacific Railway Company</railway>
-		<roadAuth>Universit顤e Montrꢬ</roadAuth>
+		<roadAuth>Université de Montréal</roadAuth>
 		<fileDate>2013-09-03</fileDate>
 		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Grade separation, Pedestrian</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{8FBB5182-173A-E511-9411-005056BCABCB}</crossingnumber>
-				<city>Montrꢬ</city>
+				<crossingnumber>13-05886A</crossingnumber>
+				<city>Montréal</city>
 				<prov>QC</prov>
 				<road/>
 				<subdivision>Adirondack</subdivision>
@@ -916,7 +929,7 @@
 				<embranchement>Outremont Spur</embranchement>
 				<spurMileage>5.85</spurMileage>
 				<rue/>
-				<municipalite>Montrꢬ</municipalite>
+				<municipalite>Montréal</municipalite>
 			</crossing>
 		</crossings>
 	</record>
@@ -930,7 +943,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{03ADC651-DA3A-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-05887A</crossingnumber>
 				<city>Ponoka</city>
 				<prov>AB</prov>
 				<road>57th Avenue</road>
@@ -954,7 +967,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{F4CD853E-083A-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-05889A</crossingnumber>
 				<city>High River</city>
 				<prov>AB</prov>
 				<road>Highway 543</road>
@@ -978,7 +991,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{4FF55FDB-1B4C-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-05910A</crossingnumber>
 				<city>Calgary</city>
 				<prov>AB</prov>
 				<road>Stoney Trail</road>
@@ -1002,7 +1015,7 @@
 		<worktype>Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{23DB7B2E-F34B-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-06412A</crossingnumber>
 				<city>Winnipeg</city>
 				<prov>MB</prov>
 				<road>Gunn Road</road>
@@ -1026,7 +1039,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{1830AE18-394B-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-06414A</crossingnumber>
 				<city>Estevan</city>
 				<prov>SK</prov>
 				<road>Estevan Truck Route</road>
@@ -1050,7 +1063,7 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{8CEAC329-3A4B-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-06417A</crossingnumber>
 				<city>Estevan</city>
 				<prov>SK</prov>
 				<road>Estevan Truck Route</road>
@@ -1074,7 +1087,7 @@
 		<worktype>Crossing at grade, Pedestrian</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{C8C51ACF-D43A-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-06480A</crossingnumber>
 				<city>Edmonton</city>
 				<prov>AB</prov>
 				<road>118th Avenue</road>
@@ -1098,7 +1111,7 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{F044BA50-2641-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-06483A</crossingnumber>
 				<city>Langley</city>
 				<prov>BC</prov>
 				<road>201 Street</road>
@@ -1122,7 +1135,7 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{7532CD1D-BB45-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-06486A</crossingnumber>
 				<city>Spruce Grove</city>
 				<prov>AB</prov>
 				<road>Century Road</road>
@@ -1146,7 +1159,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{841C7ABD-8446-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-06489A</crossingnumber>
 				<city>Mannville</city>
 				<prov>AB</prov>
 				<road/>
@@ -1170,7 +1183,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{104AA31E-7F46-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-06490A</crossingnumber>
 				<city>Unity</city>
 				<prov>SK</prov>
 				<road>North-South Road</road>
@@ -1194,7 +1207,7 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{6D4DD462-CB45-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-06492A</crossingnumber>
 				<city>Redwater</city>
 				<prov>AB</prov>
 				<road>Range Road 224</road>
@@ -1218,7 +1231,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{D48DBB4F-144C-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-06495A</crossingnumber>
 				<city>Nampa</city>
 				<prov>AB</prov>
 				<road/>
@@ -1242,7 +1255,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{3B8AEDA8-234C-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-06710A</crossingnumber>
 				<city>Unity</city>
 				<prov>SK</prov>
 				<road/>
@@ -1266,7 +1279,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{272617C0-7146-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-06711A</crossingnumber>
 				<city>Islay</city>
 				<prov>AB</prov>
 				<road/>
@@ -1290,7 +1303,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{E85AD2C9-B045-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-06870A</crossingnumber>
 				<city>Fort Saskatchewan</city>
 				<prov>AB</prov>
 				<road>Estates Way</road>
@@ -1314,7 +1327,7 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{166E2C4B-D445-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-07195A</crossingnumber>
 				<city>Roblin</city>
 				<prov>MB</prov>
 				<road>Highway No. 5</road>
@@ -1338,7 +1351,7 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{3C86AEBF-2B4C-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-07198A</crossingnumber>
 				<city>Clavet</city>
 				<prov>SK</prov>
 				<road>Range Road 3042</road>
@@ -1362,7 +1375,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{965765A0-2A4C-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-07202A</crossingnumber>
 				<city>Clavet</city>
 				<prov>SK</prov>
 				<road>Range Road 3042</road>
@@ -1386,7 +1399,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{621A1E39-594A-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-07203A</crossingnumber>
 				<city>Senneterre</city>
 				<prov>QC</prov>
 				<road/>
@@ -1410,7 +1423,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{C5EB48B5-6A46-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>13-07324A</crossingnumber>
 				<city>Saskatoon</city>
 				<prov>SK</prov>
 				<road>Range Road 3050</road>
@@ -1434,7 +1447,7 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{B417BFD0-CD45-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-00072A</crossingnumber>
 				<city>Parkland County</city>
 				<prov>AB</prov>
 				<road>Range Road 13</road>
@@ -1458,7 +1471,7 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{49C3C1AC-A246-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-00074A</crossingnumber>
 				<city>Georgina</city>
 				<prov>ON</prov>
 				<road>Clovelly Cove Road</road>
@@ -1482,7 +1495,7 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{DE9F22C4-B945-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-00075A</crossingnumber>
 				<city>Edmonton</city>
 				<prov>AB</prov>
 				<road>64th Avenue</road>
@@ -1500,14 +1513,14 @@
 		<caseNumber>14-00076</caseNumber>
 		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
 		<railway>Canadian National Railway Company</railway>
-		<roadAuth>Ville de Montrꢬ</roadAuth>
+		<roadAuth>Ville de Montréal</roadAuth>
 		<fileDate>2014-01-07</fileDate>
 		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{9593B0DE-004C-E511-9411-005056BCABCB}</crossingnumber>
-				<city>Montrꢬ</city>
+				<crossingnumber>14-00076A</crossingnumber>
+				<city>Montréal</city>
 				<prov>QC</prov>
 				<road/>
 				<subdivision>St. Laurent</subdivision>
@@ -1516,7 +1529,7 @@
 				<embranchement/>
 				<spurMileage/>
 				<rue/>
-				<municipalite>Montrꢬ</municipalite>
+				<municipalite>Montréal</municipalite>
 			</crossing>
 		</crossings>
 	</record>
@@ -1530,7 +1543,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{7D3BC4B9-7D46-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-00079A</crossingnumber>
 				<city>Contrecoeur</city>
 				<prov>QC</prov>
 				<road>St-Antoine Street</road>
@@ -1554,7 +1567,7 @@
 		<worktype>Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{1235B61F-DD3A-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-00123A</crossingnumber>
 				<city>Taylor</city>
 				<prov>BC</prov>
 				<road>Alaska Highway</road>
@@ -1578,7 +1591,7 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{289CA721-BB41-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-00125A</crossingnumber>
 				<city>Taylor</city>
 				<prov>BC</prov>
 				<road>100A Street</road>
@@ -1602,7 +1615,7 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{C0F445C4-C141-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-00127A</crossingnumber>
 				<city>Taylor</city>
 				<prov>BC</prov>
 				<road>100th Street</road>
@@ -1626,7 +1639,7 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{99DCF190-2341-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-00209A</crossingnumber>
 				<city>Repentigny</city>
 				<prov>QC</prov>
 				<road>rue St-Paul</road>
@@ -1650,16 +1663,16 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{DC1550F7-2441-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-00210A</crossingnumber>
 				<city>Repentigny</city>
 				<prov>QC</prov>
-				<road>Montꥠdes Arsenaux</road>
+				<road>Montée des Arsenaux</road>
 				<subdivision>Joliette</subdivision>
 				<subDivMileage>122.71</subDivMileage>
 				<spur/>
 				<embranchement/>
 				<spurMileage/>
-				<rue>Montꥠdes Arsenaux</rue>
+				<rue>Montée des Arsenaux</rue>
 				<municipalite>Repentigny</municipalite>
 			</crossing>
 		</crossings>
@@ -1674,7 +1687,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{679DB12A-F54B-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-00440A</crossingnumber>
 				<city>Hinton</city>
 				<prov>AB</prov>
 				<road/>
@@ -1698,7 +1711,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{9893E248-F94B-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-00443A</crossingnumber>
 				<city>Hinton</city>
 				<prov>AB</prov>
 				<road/>
@@ -1722,7 +1735,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{D9B74EF0-F94B-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-00447A</crossingnumber>
 				<city>Hinton</city>
 				<prov>AB</prov>
 				<road/>
@@ -1746,7 +1759,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{A2E1C68A-FA4B-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-00448A</crossingnumber>
 				<city>Hinton</city>
 				<prov>AB</prov>
 				<road/>
@@ -1770,7 +1783,7 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{7A6D769A-A646-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-00877A</crossingnumber>
 				<city>Foleyet</city>
 				<prov>ON</prov>
 				<road>Fin Hill Road</road>
@@ -1794,7 +1807,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{4F343F68-6C46-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-00879A</crossingnumber>
 				<city>Saskatoon</city>
 				<prov>SK</prov>
 				<road>Range Road 3043</road>
@@ -1818,7 +1831,7 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{780A913F-6D46-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-00880A</crossingnumber>
 				<city>Saskatoon</city>
 				<prov>SK</prov>
 				<road>Range Road 3043</road>
@@ -1842,7 +1855,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{352B2874-6E46-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-00904A</crossingnumber>
 				<city>Saskatoon</city>
 				<prov>SK</prov>
 				<road>Range Road 3044</road>
@@ -1866,7 +1879,7 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{03987D43-6F46-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-00906A</crossingnumber>
 				<city>Saskatoon</city>
 				<prov>SK</prov>
 				<road>Range Road 3044</road>
@@ -1890,7 +1903,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{E0BAB07C-5A4A-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-00910A</crossingnumber>
 				<city>Saskatoon</city>
 				<prov>SK</prov>
 				<road>Road TR360</road>
@@ -1914,7 +1927,7 @@
 		<worktype>Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{609D7363-5B4A-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-00912A</crossingnumber>
 				<city>Saskatoon</city>
 				<prov>SK</prov>
 				<road>Road TR360</road>
@@ -1938,7 +1951,7 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{FFAF5C7A-1941-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-00915A</crossingnumber>
 				<city>Holden</city>
 				<prov>AB</prov>
 				<road>Highway 855</road>
@@ -1962,7 +1975,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{AD9F0741-9346-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-00916A</crossingnumber>
 				<city>Winnipeg</city>
 				<prov>MB</prov>
 				<road>North Service Road Highway No. 190</road>
@@ -1986,7 +1999,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{F2B51C72-2640-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-00991A</crossingnumber>
 				<city>Winnipeg</city>
 				<prov>MB</prov>
 				<road>Highway 190</road>
@@ -2010,7 +2023,7 @@
 		<worktype>Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{4F6A9A64-2040-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-00992A</crossingnumber>
 				<city>Winnipeg</city>
 				<prov>MB</prov>
 				<road>Highway 190</road>
@@ -2034,7 +2047,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{9B28E216-184C-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-01067A</crossingnumber>
 				<city>Cumberland</city>
 				<prov>NS</prov>
 				<road>Fort Lawrence Road</road>
@@ -2058,7 +2071,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{880623BA-3F40-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-01099A</crossingnumber>
 				<city>Surrey</city>
 				<prov>BC</prov>
 				<road>Triggs Road</road>
@@ -2082,7 +2095,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{8D42FEF6-7246-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-01478A</crossingnumber>
 				<city>Clarington</city>
 				<prov>ON</prov>
 				<road>Elliott Road</road>
@@ -2106,7 +2119,7 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{9DADE80C-B245-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-01486A</crossingnumber>
 				<city>Winnipeg</city>
 				<prov>MB</prov>
 				<road>Provencher Boulevard</road>
@@ -2130,7 +2143,7 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{082DD08B-BC45-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-01487A</crossingnumber>
 				<city>Thorold</city>
 				<prov>ON</prov>
 				<road>Allanport Road</road>
@@ -2154,16 +2167,16 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{7B3808F0-2C40-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-01488A</crossingnumber>
 				<city>Saguenay</city>
 				<prov>QC</prov>
-				<road>St-Fran谩s Boulevard</road>
+				<road>St-François Boulevard</road>
 				<subdivision>Lac Saint-Jean</subdivision>
 				<subDivMileage>202.36</subDivMileage>
 				<spur/>
 				<embranchement/>
 				<spurMileage/>
-				<rue>boulevard St-Fran谩s</rue>
+				<rue>boulevard St-François</rue>
 				<municipalite>Saguenay</municipalite>
 			</crossing>
 		</crossings>
@@ -2172,13 +2185,13 @@
 		<caseNumber>14-01569</caseNumber>
 		<fileNumber>OP-017-0405-005/2014/001</fileNumber>
 		<railway>Canadian National Railway Company</railway>
-		<roadAuth>Municipalit顤e Lac-aux-Sables</roadAuth>
+		<roadAuth>Municipalité de Lac-aux-Sables</roadAuth>
 		<fileDate>2014-03-11</fileDate>
 		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{5E7A061C-2841-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-01569A</crossingnumber>
 				<city>Lac-aux-Sables</city>
 				<prov>QC</prov>
 				<road>rue Principale</road>
@@ -2202,7 +2215,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{68273091-044C-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-01570A</crossingnumber>
 				<city>Winnipeg</city>
 				<prov>MB</prov>
 				<road>Bison Drive</road>
@@ -2226,7 +2239,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{1ABA02AE-D73A-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-01583A</crossingnumber>
 				<city>Saskatoon</city>
 				<prov>SK</prov>
 				<road>Wanuskewin Road</road>
@@ -2250,7 +2263,7 @@
 		<worktype>Crossing at grade, Pedestrian</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{C3527A1E-294C-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-01586A</crossingnumber>
 				<city>Resort Municipality of Whistler</city>
 				<prov>BC</prov>
 				<road>Brandywine Falls Park</road>
@@ -2274,7 +2287,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{4802D6AB-CF3A-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-01638A</crossingnumber>
 				<city>Vaughan</city>
 				<prov>ON</prov>
 				<road/>
@@ -2298,7 +2311,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{44584F79-D23A-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-01746A</crossingnumber>
 				<city>Winnipeg</city>
 				<prov>MB</prov>
 				<road>Kenaston Boulevard</road>
@@ -2322,7 +2335,7 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{E39299CE-A746-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-01747A</crossingnumber>
 				<city>Ardrossan</city>
 				<prov>AB</prov>
 				<road>Range Road 223</road>
@@ -2346,7 +2359,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{3D3C404B-204C-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-01761A</crossingnumber>
 				<city>Brampton</city>
 				<prov>ON</prov>
 				<road>Creditview Road</road>
@@ -2370,7 +2383,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{393C8E0C-164C-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-01762A</crossingnumber>
 				<city>Winnipeg</city>
 				<prov>MB</prov>
 				<road>Shaftesbury Boulevard</road>
@@ -2394,7 +2407,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{1A268916-143A-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-01763A</crossingnumber>
 				<city>Vanscoy</city>
 				<prov>SK</prov>
 				<road>Township Road 3083</road>
@@ -2418,7 +2431,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{80004ADC-043A-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-01778A</crossingnumber>
 				<city>Vanscoy</city>
 				<prov>SK</prov>
 				<road>Township Road 362</road>
@@ -2442,7 +2455,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{AD98D16D-0A3A-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-01781A</crossingnumber>
 				<city>Vanscoy</city>
 				<prov>SK</prov>
 				<road>Township Road 360</road>
@@ -2466,7 +2479,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{6A4F1786-153A-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-01782A</crossingnumber>
 				<city>Vansoy</city>
 				<prov>SK</prov>
 				<road>Relocated Township Road 3050</road>
@@ -2475,7 +2488,7 @@
 				<spur>Vanscoy Spur</spur>
 				<embranchement>Vanscoy Spur</embranchement>
 				<spurMileage>7.15</spurMileage>
-				<rue>chemin de canton relocalis頳050</rue>
+				<rue>chemin de canton relocalisé 3050</rue>
 				<municipalite>Vanscoy</municipalite>
 			</crossing>
 		</crossings>
@@ -2490,7 +2503,7 @@
 		<worktype>Utility Crossing</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{BF48030E-3A47-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>14-03193A</crossingnumber>
 				<city>Vancouver</city>
 				<prov>BC</prov>
 				<road/>
@@ -2514,7 +2527,7 @@
 		<worktype>Railway crossing (99(1))</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{EE054524-3B40-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-01574A</crossingnumber>
 				<city>Edmonton</city>
 				<prov>AB</prov>
 				<road/>
@@ -2527,7 +2540,7 @@
 				<municipalite>Edmonton</municipalite>
 			</crossing>
 			<crossing>
-				<crossingnumber>{FC22B27F-3B40-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-01574B</crossingnumber>
 				<city>Edmonton</city>
 				<prov>AB</prov>
 				<road/>
@@ -2545,14 +2558,14 @@
 		<caseNumber>15-01575</caseNumber>
 		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
 		<railway>Canadian Pacific Railway Company</railway>
-		<roadAuth>Ville de L'Ϭe-Perrot</roadAuth>
+		<roadAuth>Ville de L'Île-Perrot</roadAuth>
 		<fileDate>2015-03-24</fileDate>
 		<nature>Apportionment of the costs, Reconstruction, Maintenance</nature>
 		<worktype>Crossing at grade, Pedestrian</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{62FC8454-903F-E511-9411-005056BCABCB}</crossingnumber>
-				<city>L'Ϭe-Perrot</city>
+				<crossingnumber>15-01575A</crossingnumber>
+				<city>L'Île-Perrot</city>
 				<prov>QC</prov>
 				<road>boulevard Perrot Nord</road>
 				<subdivision>Vaudreuil</subdivision>
@@ -2561,7 +2574,7 @@
 				<embranchement/>
 				<spurMileage/>
 				<rue>boulevard Perrot Nord</rue>
-				<municipalite>L'Ϭe-Perrot</municipalite>
+				<municipalite>L'Île-Perrot</municipalite>
 			</crossing>
 		</crossings>
 	</record>
@@ -2575,7 +2588,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{EEA611D5-693F-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-01662A</crossingnumber>
 				<city>Edmonton</city>
 				<prov>AB</prov>
 				<road>Anthony Henday Drive</road>
@@ -2599,7 +2612,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{9BCFD5C1-5147-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-02071A</crossingnumber>
 				<city>Edmonton</city>
 				<prov>AB</prov>
 				<road>Highway 16</road>
@@ -2623,7 +2636,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{EF0A3704-0341-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-02074A</crossingnumber>
 				<city>Edmonton</city>
 				<prov>AB</prov>
 				<road>Anthony Henday Drive</road>
@@ -2647,7 +2660,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{91F893C2-0441-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-02076A</crossingnumber>
 				<city>Edmonton</city>
 				<prov>AB</prov>
 				<road>Anthony Henday Drive</road>
@@ -2671,7 +2684,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{90C693EE-0541-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-02078A</crossingnumber>
 				<city>Edmonton</city>
 				<prov>AB</prov>
 				<road>Anthony Henday Drive</road>
@@ -2695,7 +2708,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{3A60FC0D-0741-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-02079A</crossingnumber>
 				<city>Edmonton</city>
 				<prov>AB</prov>
 				<road>Anthony Henday Drive</road>
@@ -2719,7 +2732,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{6481B55E-4747-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-02952A</crossingnumber>
 				<city>Vancouver</city>
 				<prov>BC</prov>
 				<road>High Street</road>
@@ -2743,7 +2756,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{C5147A45-4847-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-02953A</crossingnumber>
 				<city>Vancouver</city>
 				<prov>BC</prov>
 				<road>Road A</road>
@@ -2767,7 +2780,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{8B1426EB-4947-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-02954A</crossingnumber>
 				<city>Vancouver</city>
 				<prov>BC</prov>
 				<road>Road D</road>
@@ -2791,7 +2804,7 @@
 		<worktype>Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{4C57AA44-6547-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-03812A</crossingnumber>
 				<city>Saskatoon</city>
 				<prov>SK</prov>
 				<road>Range Road 3050</road>
@@ -2815,7 +2828,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{5589A9C4-E72F-E511-9411-005056BC6FAF}</crossingnumber>
+				<crossingnumber>15-60183A</crossingnumber>
 				<city>Kitchener</city>
 				<prov>ON</prov>
 				<road>Stirling Avenue</road>
@@ -2839,7 +2852,7 @@
 		<worktype>Crossing at grade, Pedestrian, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{E2E1BEF2-556C-E511-9411-005056BC6FAF}</crossingnumber>
+				<crossingnumber>15-60667A</crossingnumber>
 				<city>Grande Prairie</city>
 				<prov>AB</prov>
 				<road>102nd Street</road>
@@ -2863,7 +2876,7 @@
 		<worktype>Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{CDE1CC65-FD6C-E511-9411-005056BC6FAF}</crossingnumber>
+				<crossingnumber>15-60682A</crossingnumber>
 				<city>Chilliwack</city>
 				<prov>BC</prov>
 				<road>Young Road</road>
@@ -2887,7 +2900,7 @@
 		<worktype>Crossing at grade, Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{BFC5F592-8D6E-E511-9411-005056BC6FAF}</crossingnumber>
+				<crossingnumber>15-60722A</crossingnumber>
 				<city>Calgary</city>
 				<prov>AB</prov>
 				<road>84th Street North East</road>
@@ -2911,7 +2924,7 @@
 		<worktype>Pedestrian</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{DF8563F2-C54C-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-70023A</crossingnumber>
 				<city>Lakeshore</city>
 				<prov>ON</prov>
 				<road>County Road 25</road>
@@ -2935,7 +2948,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{A88AE4AC-C74C-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-70024A</crossingnumber>
 				<city>Edmonton</city>
 				<prov>AB</prov>
 				<road>West Valley Line (LRT)</road>
@@ -2959,7 +2972,7 @@
 		<worktype>Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{51209DA9-C94C-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-70025A</crossingnumber>
 				<city>French River</city>
 				<prov>ON</prov>
 				<road/>
@@ -2983,7 +2996,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{D165FECA-CA4C-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-70026A</crossingnumber>
 				<city>Bowmanville</city>
 				<prov>ON</prov>
 				<road>Green Road</road>
@@ -3007,7 +3020,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{381E9193-CC4C-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-70027A</crossingnumber>
 				<city>Toronto</city>
 				<prov>ON</prov>
 				<road>Finch Avenue East</road>
@@ -3031,7 +3044,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{CD64CDAC-D34C-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-70028A</crossingnumber>
 				<city>Ajax</city>
 				<prov>ON</prov>
 				<road>Audley Road</road>
@@ -3055,7 +3068,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{E57632D6-D84C-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-70029A</crossingnumber>
 				<city>Langley</city>
 				<prov>BC</prov>
 				<road>232 Street</road>
@@ -3079,7 +3092,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{8F5D10FF-DF4C-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-70030A</crossingnumber>
 				<city>Essa</city>
 				<prov>ON</prov>
 				<road>Simcoe County Road 90</road>
@@ -3088,7 +3101,7 @@
 				<spur/>
 				<embranchement/>
 				<spurMileage/>
-				<rue>route du comt顤e Simcoe</rue>
+				<rue>route du comté de Simcoe</rue>
 				<municipalite>Essa</municipalite>
 			</crossing>
 		</crossings>
@@ -3103,7 +3116,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{9EA0F4B9-E24C-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-70032A</crossingnumber>
 				<city>Toronto</city>
 				<prov>ON</prov>
 				<road>Markham Road</road>
@@ -3127,7 +3140,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{A84D18E9-E44C-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-70034A</crossingnumber>
 				<city>Langley</city>
 				<prov>BC</prov>
 				<road>Mufford Crescent</road>
@@ -3151,7 +3164,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{9A93036F-E64C-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-70035A</crossingnumber>
 				<city>Belleville</city>
 				<prov>ON</prov>
 				<road>Bay Bridge Road</road>
@@ -3175,7 +3188,7 @@
 		<worktype>Crossing at grade</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{8EB8312F-E84C-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-70036A</crossingnumber>
 				<city>Camrose</city>
 				<prov>AB</prov>
 				<road>Highway 13</road>
@@ -3199,7 +3212,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{3C8C262F-F34C-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-70037A</crossingnumber>
 				<city>Mississauga</city>
 				<prov>ON</prov>
 				<road>Highway 403</road>
@@ -3223,7 +3236,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{A18F3583-F44C-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-70038A</crossingnumber>
 				<city>Welland</city>
 				<prov>ON</prov>
 				<road>Highway 140</road>
@@ -3247,7 +3260,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{BBB01FBE-F54C-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-70039A</crossingnumber>
 				<city>Whitby</city>
 				<prov>ON</prov>
 				<road>Highway 407 East</road>
@@ -3271,7 +3284,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{4BA0ACF3-E24F-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-70042A</crossingnumber>
 				<city>Hamilton</city>
 				<prov>ON</prov>
 				<road>Pearl Street</road>
@@ -3295,7 +3308,7 @@
 		<worktype>Pedestrian</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{AEF8B56B-E74F-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-70043A</crossingnumber>
 				<city>Havelock</city>
 				<prov>ON</prov>
 				<road>Concession Street</road>
@@ -3313,14 +3326,14 @@
 		<caseNumber>15-70044</caseNumber>
 		<fileNumber>OP-017-0405-005/2015/001</fileNumber>
 		<railway>Canadian Pacific Railway Company</railway>
-		<roadAuth>Ville de Sainte-Th골se</roadAuth>
+		<roadAuth>Ville de Sainte-Thérèse</roadAuth>
 		<fileDate>2015-07-24</fileDate>
 		<nature>Construction, Apportionment of the costs, Maintenance</nature>
 		<worktype>Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{F81A3969-ED4F-E511-9411-005056BCABCB}</crossingnumber>
-				<city>Sainte-Th골se</city>
+				<crossingnumber>15-70044A</crossingnumber>
+				<city>Sainte-Thérèse</city>
 				<prov>QC</prov>
 				<road>Blainville Street West</road>
 				<subdivision>Parc</subdivision>
@@ -3329,11 +3342,11 @@
 				<embranchement/>
 				<spurMileage/>
 				<rue>rue Blainville ouest</rue>
-				<municipalite>Sainte-Th골se</municipalite>
+				<municipalite>Sainte-Thérèse</municipalite>
 			</crossing>
 			<crossing>
-				<crossingnumber>{1E1F3D96-ED4F-E511-9411-005056BCABCB}</crossingnumber>
-				<city>Sainte-Th골se</city>
+				<crossingnumber>15-70044B</crossingnumber>
+				<city>Sainte-Thérèse</city>
 				<prov>QC</prov>
 				<road>Saint-Louis Street</road>
 				<subdivision>Parc</subdivision>
@@ -3342,7 +3355,7 @@
 				<embranchement/>
 				<spurMileage/>
 				<rue>rue Saint-Louis</rue>
-				<municipalite>Sainte-Th골se</municipalite>
+				<municipalite>Sainte-Thérèse</municipalite>
 			</crossing>
 		</crossings>
 	</record>
@@ -3356,16 +3369,16 @@
 		<worktype>Warning signals</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{D6E6073C-F24F-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-70045A</crossingnumber>
 				<city>Blainville</city>
 				<prov>QC</prov>
-				<road>C������St-Louis Est road</road>
+				<road>Côte St-Louis Est road</road>
 				<subdivision>Parc</subdivision>
 				<subDivMileage>22.21</subDivMileage>
 				<spur/>
 				<embranchement/>
 				<spurMileage/>
-				<rue>chemin C������St-Louis Est</rue>
+				<rue>chemin Côte St-Louis Est</rue>
 				<municipalite>Blainville</municipalite>
 			</crossing>
 		</crossings>
@@ -3380,7 +3393,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{524CF1FD-F54F-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-70046A</crossingnumber>
 				<city>Pointe-Claire</city>
 				<prov>QC</prov>
 				<road>Boulevard Saint-Jean</road>
@@ -3404,7 +3417,7 @@
 		<worktype>Grade separation, Pedestrian</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{A6850654-F84F-E511-9411-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-70047A</crossingnumber>
 				<city>Vancouver</city>
 				<prov>BC</prov>
 				<road>Victoria Drive</road>
@@ -3428,7 +3441,7 @@
 		<worktype>Grade separation</worktype>
 		<crossings>
 			<crossing>
-				<crossingnumber>{AC3B52BC-CF99-E511-9414-005056BCABCB}</crossingnumber>
+				<crossingnumber>15-70064A</crossingnumber>
 				<city>Cambridge</city>
 				<prov>ON</prov>
 				<road>Franklin Boulevard</road>
