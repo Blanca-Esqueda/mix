@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.viasport.ca/" xml:career="http://www.viasport.ca/" xmlns:atom="http://www.w3.org/2005/Atom"> <channel> <title>viaSport Careers</title>
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.viasport.ca/" xmlns:career="http://www.viasport.ca/career" xmlns:atom="http://www.w3.org/2005/Atom"> <channel> <title>viaSport Careers</title>
  <description>viaSport Career feed</description>
  <link>http://www.viasport.ca/</link>
  <atom:link rel="self" href="http://www.viasport.ca/careers/feed" />
